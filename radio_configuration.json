@@ -1,0 +1,62 @@
+{
+  "FarsiRadio": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "YES",
+      "EnableEchoNest": "YES",
+      "Message": "https://sites.google.com/a/maadotaa.com/raazpromo/",
+      "MessageID": "none"
+    }
+  ],
+  "Listen2Me": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "NO",
+      "EnableEchoNest": "YES",
+      "Message": "https://sites.google.com/a/maadotaa.com/japanradiomessage/",
+      "MessageID": "09242014"
+    }
+  ],
+  "IndianRadios": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "NO"
+    }
+  ],
+  "JapanRadios": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "YES",
+      "EnableEchoNest": "YES",
+      "Message": "https://sites.google.com/a/maadotaa.com/signhere-promo/",
+      "MessageID": "7"
+    }
+  ],
+  "KoreanRadios": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "YES",
+      "EnableEchoNest": "YES"
+    }
+  ],
+  "RadioPinoy": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "YES",
+      "EnableEchoNest": "YES"
+    }
+  ],
+  "RadioVietnam": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "NO",
+      "EnableEchoNest": "YES"
+    }
+  ],
+  "Anime-Chat": [
+    {
+      "UseiAd": "YES",
+      "EnableChat": "YES"
+    }
+  ]
+}
