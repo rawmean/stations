@@ -29,6 +29,7 @@
   [
     {"StationName": "Radio Hamrah",         "URL":"http://stream.radiohamrah.com/RadioHamrahAAC"},
     {"StationName": "KIRN 670 AM", 		   "URL":"http://208.43.166.220:9000"},
+    {"StationName": "Radio Donya", 		   "URL":"http://gig.casthost.net:8002/stream"},
     {"StationName": "Radio Farda",     "URL":"http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"},
     {"StationName": "IFT Radio", 		    "URL":"http://204.140.27.155:8080/iftradio"},
     {"StationName": "Radio Gramophone",  	"URL":"http://majestic.wavestreamer.com:2285/Live"},
