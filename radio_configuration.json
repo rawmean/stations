@@ -5,7 +5,8 @@
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "https://sites.google.com/a/maadotaa.com/raazpromo/",
-      "MessageID": "none"
+      "MessageID": "none",
+      "EnableSharing": "NO"
     }
   ],
   "Listen2Me": [
