@@ -134,6 +134,7 @@
     {"StationName": "KCRW Live ", 		     "URL":"http://kcrw.ic.llnwd.net/stream/kcrw_live"},
     {"StationName": "Dinner Jazz Excursion", 		"URL":"http://sc01.warpradio.com:8240/"}, 
     {"StationName": "KSDS Jazz",                 "URL":"http://listen.jazz88.org/ksds.mp3"},
+    {"StationName": "4Clubbers",        	"URL":"http://87.98.163.6:8200/"}, 
     {"StationName": "RadioSkyMusic",                 "URL":"http://streaming.radionomy.com/Mistura-Fina-Instrumental"},
     {"StationName": "coolradio jazz",                 "URL":"http://4broadcast.de:8000/coolradio-jazz-128s.mp3"},
     {"StationName": "Jazz 24",                 "URL":"http://icy1.abacast.com:80/kplu-jazz24aac-64"},
