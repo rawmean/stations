@@ -31,6 +31,7 @@
     {"StationName": "KIRN 670 AM", 		   "URL":"http://208.43.166.220:9000"},
     {"StationName": "Radio Gramophone",     "URL":"http://majestic.wavestreamer.com:2285/Live"},
     {"StationName": "Radio Shoma",         "URL":"http://5303.live.streamtheworld.com/RADIO_SHOMA_SC"},
+    {"StationName": "Radio Iranian London",         "URL":"http://ghost.wavestreamer.com:7716/stream/1/"},
     {"StationName": "Persian Radio",        "URL":"http://213.73.255.244:10500"},
     {"StationName": "Radio Javan", 		"URL":"http://stream.radiojavan.com/radiojavan"},
     {"StationName": "Radio Farda",         "URL":"http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"},
