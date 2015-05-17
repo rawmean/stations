@@ -54,6 +54,11 @@
       "EnableEchoNest": "YES"
     }
   ],
+  "QuickControl": [
+    {
+      "shouldBypassUserConfirmation": "YES"
+    }
+  ],
   "Anime-Chat": [
     {
       "UseiAd": "YES",
