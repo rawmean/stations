@@ -99,7 +99,7 @@
   ],
   "FarsiRadio": [
     {
-      "StationName": "راديو همراه",
+      "StationName": "(Hamrah)راديو همراه",
       "URL": "http://stream.radiohamrah.com/RadioHamrahAAC"
     },
     {
@@ -107,15 +107,19 @@
       "URL": "http://208.43.166.220:9000"
     },
     {
-      "StationName": "راديو گرامافون",
+      "StationName": "(Gramaphone) راديو گرامافون",
       "URL": "http://majestic.wavestreamer.com:2285/Live"
     },
     {
-      "StationName": " راديو شما",
+      "StationName": "(Shoma) راديو شما",
       "URL": "http://5303.live.streamtheworld.com/RADIO_SHOMA_SC"
     },
     {
-      "StationName": "راديو ايرانيان لندن",
+      "StationName": "JAAM RADIO راديو جم",
+      "URL": "http://192.99.17.12:6033/"
+    },
+    {
+      "StationName": "(London)راديو ايرانيان لندن",
       "URL": "http://ghost.wavestreamer.com:7716/stream/1/"
     },
     {
@@ -123,23 +127,23 @@
       "URL": "http://213.73.255.244:10500"
     },
     {
-      "StationName": "رادیو خونه",
+      "StationName": "(Khooneh)رادیو خونه",
       "URL": "http://sc27.streamhoster.com/lv_radiokhooneh--broadcast2"
     },
     {
-      "StationName": "راديو جوان",
+      "StationName": "(Javan)راديو جوان",
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-      "StationName": "راديو فردا", 
+      "StationName": "(Farda)راديو فردا", 
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
     },
     {
-      "StationName": "راديو آش رشته",
+      "StationName": "(Ashereshteh)راديو آش رشته",
       "URL": "http://ashreshteh.com:8000"
     },
     {
-      "StationName": "راديو چيزوميز",
+      "StationName": "(ChizoMiz)راديو چيزوميز",
       "URL": "http://85.25.106.162:8110"
     },
     {
@@ -147,7 +151,7 @@
       "URL": "http://213.73.255.244:10600"
     },
     {
-      "StationName": "راديو ارمان",
+      "StationName": "(Raman)راديو ارمان",
       "URL": "http://148.251.187.85:8313/listen.pls"
     },
     {
@@ -155,7 +159,7 @@
       "URL": "http://37.187.48.29:8000/2"
     },
     {
-      "StationName": "راديو سنتى",
+      "StationName": "(Traditional)راديو سنتى",
       "URL": "http://213.73.255.244:10700"
     },
     {
@@ -163,19 +167,19 @@
       "URL": "http://204.140.27.155:8080/iftradio"
     },
     {
-      "StationName": "راديو دونيا",
+      "StationName": "(Donya)راديو دونيا",
       "URL": "http://gig.casthost.net:8002/stream"
     },
     {
-      "StationName": "راديو رنگارنگ ١",
+      "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "http://audio.rangarang.us:8000/stream/4/"
     },
     {
-      "StationName": "راديو رنگارنگ ٢",
+      "StationName": "(Rangarang2)راديو رنگارنگ ٢",
       "URL": "http://audio.rangarang.us:8000/stream/3/"
     },
     {
-      "StationName": "راديو على",
+      "StationName": "(Ali)راديو على",
       "URL": "http://192.184.9.79:8348"
     },
     {
@@ -183,19 +187,19 @@
       "URL": "http://198.178.123.11:7574"
     },
     {
-      "StationName": "راديو پويا",
+      "StationName": "(Pooya)راديو پويا",
       "URL": "http://209.73.138.42:2877/Live"
     },
     {
-      "StationName": "راديو جديد",
+      "StationName": "(Jadid)راديو جديد",
       "URL": "http://50.7.70.66:8705"
     },
     {
-      "StationName": "راديو فاز",
+      "StationName": "(Faaz)راديو فاز",
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
-      "StationName": "راديو همسفر",
+      "StationName": "(Hamsafar)راديو همسفر",
       "URL": "http://94.254.1.16:8000"
     },
     {
@@ -203,7 +207,7 @@
       "URL": "http://stream.i7radio.com/high"
     },
     {
-      "StationName": "راديو دوست",
+      "StationName": "(Doost)راديو دوست",
       "URL": "http://50.7.70.66:8507"
     }
   ],
