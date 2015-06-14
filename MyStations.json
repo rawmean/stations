@@ -111,10 +111,6 @@
       "URL": "http://majestic.wavestreamer.com:2285/Live"
     },
     {
-      "StationName": "(Shoma) راديو شما",
-      "URL": "http://5303.live.streamtheworld.com/RADIO_SHOMA_SC"
-    },
-    {
       "StationName": "JAAM RADIO راديو جم",
       "URL": "http://192.99.17.12:6033/"
     },
@@ -145,6 +141,10 @@
     {
       "StationName": "(ChizoMiz) راديو چيزوميز",
       "URL": "http://85.25.106.162:8110"
+    },
+    {
+      "StationName": "(Shoma) راديو شما",
+      "URL": "http://5303.live.streamtheworld.com/RADIO_SHOMA_SC"
     },
     {
       "StationName": "Dance Radio",
