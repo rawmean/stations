@@ -111,6 +111,10 @@
       "URL": "http://majestic.wavestreamer.com:2285/Live"
     },
     {
+      "StationName": "JazzNot Radio",
+      "URL": "http://s7.streammonster.com:8343/stream"
+    },
+    {
       "StationName": "(JAAM RADIO) راديو جم",
       "URL": "http://192.99.17.12:6033/"
     },
