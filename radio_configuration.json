@@ -5,7 +5,7 @@
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "http://apps976.wix.com/khandeh",
-      "MessageID": "none",
+      "MessageID": "15",
       "EnableSharing": "NO"
     }
   ],
@@ -30,7 +30,7 @@
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "https://sites.google.com/a/maadotaa.com/signhere-promo/",
-      "MessageID": "none"
+      "MessageID": "15"
     }
   ],
   "KoreanRadios": [
