@@ -1,6 +1,10 @@
 {
   "RadioPinoy": [
     {
+      "StationName": "Blazin 100",
+      "URL": "http://orion.shoutca.st:8093/stream"
+    },
+    {
       "StationName": "Pinoy Alternative Rock",
       "URL": "http://s8.voscast.com:8642"
     },
@@ -11,10 +15,6 @@
     {
       "StationName": "MOR 94.3 Dagupan",
       "URL": "http://192.241.193.224:8059/mordagupan"
-    },
-    {
-      "StationName": "Pinoy Internet Radio",
-      "URL": "http://213.239.218.99:7002/stream"
     },
     {
       "StationName": "Himig Pinoy FM",
@@ -39,10 +39,6 @@
     {
       "StationName": "Pinoy-Pirates Radio",
       "URL": "http://46.105.27.171:8000/"
-    },
-    {
-      "StationName": "Blazin 100",
-      "URL": "http://99.198.118.250:8158/"
     },
     {
       "StationName": "RAKISTA Radio",
@@ -77,10 +73,6 @@
       "URL": "http://jokojun.servemp3.com:1414/radio"
     },
     {
-      "StationName": "DjKoRn Pinoy",
-      "URL": "http://184.154.185.177:80/"
-    },
-    {
       "StationName": "Pinoy Rap Radio",
       "URL": "http://198.178.123.23:7200"
     },
@@ -94,7 +86,7 @@
     },
     {
       "StationName": "PINOY RADIO UK",
-      "URL": "http://s5.voscast.com:7858/;stream.nsv"
+      "URL": "http://s10.voscast.com:9204"
     }
   ],
   "FarsiRadio": [
@@ -430,7 +422,7 @@
     },
     {
       "StationName": "Anime Classics 2",
-      "URL": "http://albireo.shoutca.st/tunein/jtingb04.pls"
+      "URL": "http://192.99.8.170/tunein/jtingb00.pls"
     },
     {
       "StationName": "Extreme Anime Radio",
@@ -454,7 +446,7 @@
     },
     {
       "StationName": "AnimeNexus",
-      "URL": "http://209.126.101.188:8000/listen.pls"
+      "URL": "http://209.126.101.188:8000/animenexus.m3u"
     },
     {
       "StationName": "70s-90s J-pop Stream",
