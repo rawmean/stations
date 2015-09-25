@@ -56,7 +56,7 @@
   ],
   "QuickControl": [
     {
-      "shouldBypassUserConfirmation": "NO"
+      "shouldBypassUserConfirmation": "YES"
     }
   ],
   "Anime-Chat": [
