@@ -108,7 +108,7 @@
     },
     {
       "StationName": "(Hamegan) رادیو همهگان",
-      "URL": "http://stream.radiomandegar.com:8000/128"
+      "URL": "http://91.121.134.23:8300/stream"
     },
     {
       "StationName": "(Mandegar) راديو ماندگار",
@@ -168,7 +168,7 @@
     },
     {
       "StationName": "(Donya) راديو دنيا",
-      "URL": "http://gig.casthost.net:8037/stream"
+      "URL": "http://naxos.cdnstream.com/1305_128"
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
