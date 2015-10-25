@@ -961,12 +961,20 @@
       "URL": "http://170.75.194.209:8888/listen.pls"
     },
     {
+      "StationName": "RFI Vietnamese",
+      "URL": "http://rfi-vietnamien.scdn.arkena.com/rfivietnamien.mp3"
+    },
+    {
       "StationName": "R Sputnik Vietnamese",
       "URL": "http://audio1.video.ria.ru/voicevnm.m3u"
     },
     {
       "StationName": "Nationwide Viet HD",
       "URL": "http://vndcradio2.serverroom.us:4480/"
+    },
+    {
+      "StationName": "TNT Radio",
+      "URL": "http://peter7.primcast.com:4088/;stream.mp3"
     },
     {
       "StationName": "VietNam Public Radio",
