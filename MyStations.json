@@ -929,10 +929,6 @@
       "URL": "http://ice5.securenetsystems.net/KVVN"
     },
     {
-      "StationName": "VAB Vietnamese American",
-      "URL": "http://67.213.213.137:8087"
-    },
-    {
       "StationName": "Radio Saigon Dallas",
       "URL": "http://67.212.189.122:8068"
     },
@@ -963,10 +959,6 @@
     {
       "StationName": "Saigon HD Radio",
       "URL": "http://170.75.194.209:8888/listen.pls"
-    },
-    {
-      "StationName": "RFI Vietnamese",
-      "URL": "http://95.81.147.3/2584/rfi_en_vietnamien/rfivietnamien.mp3"
     },
     {
       "StationName": "R Sputnik Vietnamese",
