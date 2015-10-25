@@ -107,6 +107,10 @@
       "URL": "http://s7.streammonster.com:8343/stream"
     },
     {
+      "StationName": "(RadioLand) راديو لند",
+      "URL": "http://radioland.out.airtime.pro:8000/radioland_a"
+    },
+    {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
     },
