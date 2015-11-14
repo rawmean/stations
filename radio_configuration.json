@@ -59,6 +59,11 @@
       "shouldBypassUserConfirmation": "YES"
     }
   ],
+  "GeoCam": [
+    {
+      "shouldBypassUserConfirmation": "YES"
+    }
+  ],
   "Anime-Chat": [
     {
       "UseiAd": "YES",
