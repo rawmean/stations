@@ -61,7 +61,7 @@
   ],
   "GeoCam": [
     {
-      "shouldBypassUserConfirmation": "YES"
+      "shouldBypassUserConfirmation": "NO"
     }
   ],
   "Anime-Chat": [
