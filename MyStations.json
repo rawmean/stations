@@ -107,10 +107,6 @@
       "URL": "http://s7.streammonster.com:8343/stream"
     },
     {
-      "StationName": "(RadioLand) راديو لند",
-      "URL": "http://radioland.out.airtime.pro:8000/radioland_a"
-    },
-    {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
     },
@@ -121,10 +117,6 @@
     {
       "StationName": "(JAAM RADIO) راديو جم",
       "URL": "http://192.99.17.12:6033/"
-    },
-    {
-      "StationName": "(London) راديو ايرانيان لندن",
-      "URL": "http://ghost.wavestreamer.com:7716/stream/1/"
     },
     {
       "StationName": "(Khooneh) رادیو خونه",
@@ -139,28 +131,12 @@
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
     },
     {
-      "StationName": "(Ashereshteh) راديو آش رشته",
-      "URL": "http://ashreshteh.com:8000"
-    },
-    {
       "StationName": "(ChizoMiz) راديو چيزوميز",
       "URL": "http://87.117.201.57:8110/;stream.nsv"
     },
     {
-      "StationName": "(Shoma) راديو شما",
-      "URL": "http://5303.live.streamtheworld.com/RADIO_SHOMA_SC"
-    },
-    {
-      "StationName": "(Arman) راديو ارمان",
-      "URL": "http://148.251.187.85:8313/listen.pls"
-    },
-    {
       "StationName": "Radio 6o8",
       "URL": "http://37.187.48.29:8000/2"
-    },
-    {
-      "StationName": "(Traditional) راديو سنتى",
-      "URL": "http://213.73.255.244:10700"
     },
     {
       "StationName": "IFT Radio",
@@ -187,28 +163,16 @@
       "URL": "http://198.178.123.11:7574"
     },
     {
-      "StationName": "(Pooya) راديو پويا",
-      "URL": "http://209.73.138.42:2877/Live"
-    },
-    {
-      "StationName": "(Jadid) راديو جديد",
-      "URL": "http://50.7.70.66:8705"
-    },
-    {
       "StationName": "(Faaz) راديو فاز",
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://94.254.1.16:8000"
+      "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
     },
     {
       "StationName": "i7 Radio",
       "URL": "http://stream.i7radio.com/high"
-    },
-    {
-      "StationName": "(Doost) راديو دوست",
-      "URL": "http://50.7.70.66:8507"
     }
   ],
   "ThaiRadios": [
