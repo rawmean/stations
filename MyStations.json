@@ -390,7 +390,7 @@
     },
     {
       "StationName": "Anime Classics Radio",
-      "URL": "http://albireo.shoutca.st/tunein/jtingb05.pls"
+      "URL": "http://199.180.75.2:9197"
     },
     {
       "StationName": "Anime Classics 2",
@@ -431,10 +431,6 @@
     {
       "StationName": "RADIO HAYAMA ",
       "URL": "http://server10.reliastream.com:2199/tunein/radiohayama.pls"
-    },
-    {
-      "StationName": "Radio Anime Obsesion",
-      "URL": "http://radio.anime-obsesion.com:8902/animeobsesion"
     },
     {
       "StationName": "AnimeNfo Radio",
