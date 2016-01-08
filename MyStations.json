@@ -390,11 +390,11 @@
     },
     {
       "StationName": "Anime Classics Radio",
-      "URL": "http://199.180.75.2:9197"
+      "URL": "http://streaming.radionomy.com/AnimeClassicsRadio1?ad=radiono5"
     },
     {
       "StationName": "Anime Classics 2",
-      "URL": "http://192.99.8.170/tunein/jtingb00.pls"
+      "URL": "http://listen.radionomy.com/animeclassicsradiotwo.m3u"
     },
     {
       "StationName": "Extreme Anime Radio",
