@@ -99,12 +99,11 @@
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
     },
     {
+      "StationName": "(Radio Shoma) راديو شما",
+      "URL": "http://10913.live.streamtheworld.com/RADIO_SHOMA_SC"
+    },    {
       "StationName": "(Gramaphone) راديو گرامافون",
-      "URL": "http://majestic.wavestreamer.com:2285/Live"
-    },
-    {
-      "StationName": "JazzNot Radio",
-      "URL": "http://s7.streammonster.com:8343/stream"
+      "URL": "http://streaming.radio.co/sbf096dfac/listen"
     },
     {
       "StationName": "(Hamegan) رادیو همهگان",
@@ -137,10 +136,6 @@
     {
       "StationName": "Radio 6o8",
       "URL": "http://37.187.48.29:8000/2"
-    },
-    {
-      "StationName": "IFT Radio",
-      "URL": "http://204.140.27.155:8080/iftradio"
     },
     {
       "StationName": "(Donya) راديو دنيا",
