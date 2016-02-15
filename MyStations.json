@@ -22,7 +22,7 @@
     },
     {
       "StationName": "Pinoy Music Radio",
-      "URL": "http://listen.radionomy.com/pinoymixradio.m3u"
+      "URL": "http://s1.voscast.com:8230/"
     },
     {
       "StationName": "Pinoy Home Radio",
@@ -31,14 +31,6 @@
     {
       "StationName": "Pinoy Love Radio",
       "URL": "http://s6.voscast.com:8562"
-    },
-    {
-      "StationName": "Pinoy Hitz",
-      "URL": "http://s2.voscast.com:8426"
-    },
-    {
-      "StationName": "Pinoy-Pirates Radio",
-      "URL": "http://46.105.27.171:8000/"
     },
     {
       "StationName": "RAKISTA Radio",
@@ -50,23 +42,19 @@
     },
     {
       "StationName": "Radyo Kalibre",
-      "URL": "http://75.126.73.136:8002/"
+      "URL": "http://192.184.9.158:8674/;stream.nsv"
     },
     {
       "StationName": "Radyo KBYN",
       "URL": "http://radyokabayan.serverhostingcenter.com:9044/"
     },
     {
-      "StationName": "Atlantis Radio Philippines",
-      "URL": "http://192.184.9.79:8106"
-    },
-    {
       "StationName": "Tunog Pinoy Radio",
-      "URL": "http://173.193.219.163:8494"
+      "URL": "http://s2.voscast.com:8696/;"
     },
     {
       "StationName": "COOL FM 90.1",
-      "URL": "http://67.213.213.137:8039/"
+      "URL": "http://s4.reliastream.com:8002/;"
     },
     {
       "StationName": "Joko Jun Radio",
@@ -86,7 +74,7 @@
     },
     {
       "StationName": "PINOY RADIO UK",
-      "URL": "http://s10.voscast.com:9204"
+      "URL": "http://206.72.194.250:9972/;stream.mp3"
     }
   ],
   "FarsiRadio": [
