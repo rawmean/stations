@@ -56,12 +56,12 @@
   ],
   "QuickControl": [
     {
-      "shouldBypassUserConfirmation": "NO"
+      "shouldBypassUserConfirmation": "YES"
     }
   ],
   "GeoCam": [
     {
-      "shouldBypassUserConfirmation": "YES"
+      "shouldBypassUserConfirmation": "NO"
     }
   ],
   "Anime-Chat": [
