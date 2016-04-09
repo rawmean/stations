@@ -26,7 +26,7 @@
   ],
   "JapanRadios": [
     {
-      "UseiAd": "YES",
+      "UseiAd": "NO",
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "http://quicktext.maadotaa.com",
@@ -35,21 +35,21 @@
   ],
   "KoreanRadios": [
     {
-      "UseiAd": "YES",
+      "UseiAd": "NO",
       "EnableChat": "YES",
       "EnableEchoNest": "YES"
     }
   ],
   "RadioPinoy": [
     {
-      "UseiAd": "YES",
+      "UseiAd": "NO",
       "EnableChat": "YES",
       "EnableEchoNest": "YES"
     }
   ],
   "RadioVietnam": [
     {
-      "UseiAd": "YES",
+      "UseiAd": "NO",
       "EnableChat": "NO",
       "EnableEchoNest": "YES"
     }
