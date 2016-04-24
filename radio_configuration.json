@@ -1,11 +1,11 @@
 {
   "FarsiRadio": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "http://apps976.wix.com/khandeh",
-      "MessageID": "none",
+      "MessageID": "12",
       "EnableSharing": "NO"
     }
   ],
@@ -26,7 +26,7 @@
   ],
   "JapanRadios": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "http://quicktext.maadotaa.com",
@@ -35,21 +35,21 @@
   ],
   "KoreanRadios": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "YES",
       "EnableEchoNest": "YES"
     }
   ],
   "RadioPinoy": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "YES",
       "EnableEchoNest": "YES"
     }
   ],
   "RadioVietnam": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "NO",
       "EnableEchoNest": "YES"
     }
@@ -66,7 +66,7 @@
   ],
   "Anime-Chat": [
     {
-      "UseiAd": "NO",
+      "UseiAd": "YES",
       "EnableChat": "YES"
     }
   ]
