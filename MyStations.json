@@ -102,10 +102,6 @@
       "URL": "http://91.121.134.23:8300/stream"
     },
     {
-      "StationName": "(Mandegar) راديو ماندگار",
-      "URL": "http://stream.radiomandegar.com:8000/128"
-    },
-    {
       "StationName": "(JAAM RADIO) راديو جم",
       "URL": "http://192.99.17.12:6033/"
     },
@@ -144,10 +140,6 @@
     {
       "StationName": "LPR (London)",
       "URL": "http://198.178.123.11:7574"
-    },
-    {
-      "StationName": "(Faaz) راديو فاز",
-      "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
