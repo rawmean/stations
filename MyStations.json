@@ -79,6 +79,10 @@
   ],
   "FarsiRadio": [
     {
+      "StationName": "Bia2",
+      "URL": "http://199.58.163.15:8002/;"
+    },
+    {
       "StationName": "(Hamrah) راديو همراه",
       "URL": "http://stream.radiohamrah.com/RadioHamrahAAC"
     },
