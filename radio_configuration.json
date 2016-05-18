@@ -44,7 +44,9 @@
     {
       "UseiAd": "YES",
       "EnableChat": "YES",
-      "EnableEchoNest": "YES"
+      "EnableEchoNest": "YES",
+      "Message": "http://apps976.wix.com/pinoyjokes",
+      "MessageID": "1"
     }
   ],
   "RadioVietnam": [
