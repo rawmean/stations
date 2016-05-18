@@ -246,6 +246,10 @@
   ],
   "KoreanRadios": [
     {
+      "StationName": "AnimeNfo Radio",
+      "URL": "http://itori.animenfo.com:443/"
+    },    
+    {
       "StationName": "KPOP @ Big B Radio",
       "URL": "http://184.95.62.170:9002/"
     },
