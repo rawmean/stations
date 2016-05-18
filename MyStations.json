@@ -244,11 +244,7 @@
       "URL": "http://122.155.16.158:6178"
     }
   ],
-  "KoreanRadios": [
-    {
-      "StationName": "AnimeNfo Radio",
-      "URL": "http://itori.animenfo.com:443/"
-    },    
+  "KoreanRadios": [   
     {
       "StationName": "KPOP @ Big B Radio",
       "URL": "http://184.95.62.170:9002/"
@@ -262,16 +258,16 @@
       "URL": "http://37.72.100.39:8001/stream"
     },
     {
-      "StationName": "Korea KPOP",
-      "URL": "http://222.122.178.180:8820"
+      "StationName": "Korea POP",
+      "URL": "http://107.182.234.82:8226/;"
     },
     {
-      "StationName": "Generation KPOP",
-      "URL": "http://176.31.241.195:8700"
+      "StationName": "OMG K Pop",
+      "URL": "http://stream.omgkpop.com:8234/stream"
     },
     {
-      "StationName": "SEOULFM",
-      "URL": "http://96.44.128.51/;?1394923302591.mp3"
+      "StationName": "Kpop México",
+      "URL": "http://204.12.193.98:8415/;"
     },
     {
       "StationName": "KPOP addict",
@@ -282,8 +278,8 @@
       "URL": "http://streaming.radionomy.com/RADIO-KPOP"
     },
     {
-      "StationName": "KPOP and more",
-      "URL": "http://204.45.126.170:8021"
+      "StationName": "Aewen Radio - KJpop",
+      "URL": "http://37.72.100.39:8031/mobile"
     },
     {
       "StationName": "Big B Radio",
@@ -302,24 +298,28 @@
       "URL": "http://fm386.inlive.co.kr"
     },
     {
-      "StationName": "iPhone WorldMic Korea",
-      "URL": "http://38.96.148.141:4648"
+      "StationName": "Kpopway",
+      "URL": "http://206.190.136.141:4906/Live"
     },
     {
       "StationName": "MelodiesOfPrayer.com",
       "URL": "http://67.212.189.122:8187"
     },
     {
-      "StationName": "JPHiP Radio",
-      "URL": "http://radio.jphip.com:8800/"
+      "StationName": "SBS PopAsia",
+      "URL": "http://wowza.arn.com.au:8000/SBSPopAsia.aac"
     },
     {
       "StationName": "Cast.cc",
       "URL": "http://cast.cc:8888"
     },
     {
-      "StationName": "Chinamerica Hit Radio!",
-      "URL": "http://209.73.150.38:26814"
+      "StationName": "KTOWN! KPOP Radio",
+      "URL": "http://142.4.217.133:8717/;"
+    },
+    {
+      "StationName": "Generacion KPOP",
+      "URL": "http://192.99.14.225:9974/;"
     }
   ],
   "JapanRadios": [
