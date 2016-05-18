@@ -320,20 +320,60 @@
   ],
   "JapanRadios": [
     {
+      "StationName": "Yume Anime Radio",
+      "URL": "http://usa8.fastcast4u.com:5813/;"
+    },    
+    {
+      "StationName": "Rádio AniMiX",
+      "URL": "http://192.99.35.31:8023/;"
+    },    
+    {
+      "StationName": "Rádio AniMiX",
+      "URL": "http://192.99.35.31:8023/;"
+    },    
+    {
+      "StationName": "Radio AnimeID",
+      "URL": "http://199.217.118.14:8485/;"
+    },    
+    {
+      "StationName": "Radio Rakuen",
+      "URL": "http://67.212.165.162:7018/;"
+    },    
+    {
+      "StationName": "Otaku no Radio",
+      "URL": "http://radio.otakunopodcast.com:8000/otakunoradio"
+    },    
+    {
+      "StationName": "AnimeFM",
+      "URL": "http://stream3.laut.fm/animefm"
+    },    
+    {
+      "StationName": "Shinsen Radio",
+      "URL": "http://radioserv1.shinsen-radio.org:8000/stream"
+    },
+    {
+      "StationName": "Anime Obsesion",
+      "URL": "http://animeobsesion.net:8000/;"
+    },
+    {
+      "StationName": "Anison.FM",
+      "URL": "http://s1.radio.ru-hoster.com:8000/AniSonFM(128)"
+    },
+    {
+      "StationName": "Hotmixradio Japan",
+      "URL": "http://streaming.hotmixradio.fm/hotmixradio-japan-128.mp3"
+    },
+    {
+      "StationName": "Yggdrasil Radio",
+      "URL": "http://95.211.241.92:9200/;"
+    },
+    {
       "StationName": "Japan-A-Radio",
       "URL": "http://audio.misproductions.com/japan128k"
     },
     {
       "StationName": "J-PopProject Radio",
       "URL": "http://streaming.radionomy.com/J-PopProjectRadio"
-    },
-    {
-      "StationName": "MJHR  Radio",
-      "URL": "http://streaming207.radionomy.com:80/MJHRRadio"
-    },
-    {
-      "StationName": "Loli-Pop Radio",
-      "URL": "http://streaming207.radionomy.com:80/Loli-Pop-Station"
     },
     {
       "StationName": "JPopsuki-Radio",
@@ -348,10 +388,6 @@
       "URL": "http://s4.webradio-hosting.com:2199/tunein/fredradiojp.pls"
     },
     {
-      "StationName": "AnimeAMAZE",
-      "URL": "http://apple.neostreams.info:10007/"
-    },
-    {
       "StationName": "Ghost Anime",
       "URL": "http://animeradio.su:8000/"
     },
@@ -364,10 +400,6 @@
       "URL": "http://apple.neostreams.info:10007/"
     },
     {
-      "StationName": "Anime Classics Radio",
-      "URL": "http://streaming.radionomy.com/AnimeClassicsRadio1?ad=radiono5"
-    },
-    {
       "StationName": "Anime Classics 2",
       "URL": "http://listen.radionomy.com/animeclassicsradiotwo.m3u"
     },
@@ -377,7 +409,7 @@
     },
     {
       "StationName": "Armitage's Dimension",
-      "URL": "http://armitunes.com:8000/"
+      "URL": "http://mp3.fr.armitunes.com:8000/listen.pls"
     },
     {
       "StationName": "Big B Radio",
