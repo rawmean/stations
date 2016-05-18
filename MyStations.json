@@ -320,6 +320,10 @@
   ],
   "JapanRadios": [
     {
+      "StationName": "AnimeNfo Radio",
+      "URL": "http://itori.animenfo.com:443/"
+    },    
+    {
       "StationName": "Yume Anime Radio",
       "URL": "http://usa8.fastcast4u.com:5813/;"
     },       
@@ -384,10 +388,6 @@
       "URL": "http://s4.webradio-hosting.com:2199/tunein/fredradiojp.pls"
     },
     {
-      "StationName": "Ghost Anime",
-      "URL": "http://animeradio.su:8000/"
-    },
-    {
       "StationName": "91.8 the Fan",
       "URL": "http://198.100.144.46:80/stream/1/"
     },
@@ -421,7 +421,7 @@
     },
     {
       "StationName": "AnimeNexus",
-      "URL": "http://209.126.101.188:8000/animenexus.m3u"
+      "URL": "radio.animenexus.mx:8100/;"
     },
     {
       "StationName": "70s-90s J-pop Stream",
@@ -430,14 +430,6 @@
     {
       "StationName": "Anime-stereo",
       "URL": "http://listen.radionomy.com/anime-stereo.m3u"
-    },
-    {
-      "StationName": "RADIO HAYAMA ",
-      "URL": "http://server10.reliastream.com:2199/tunein/radiohayama.pls"
-    },
-    {
-      "StationName": "AnimeNfo Radio",
-      "URL": "http://itori.animenfo.com:443/"
     }
   ],
   "Listen2Me": [
