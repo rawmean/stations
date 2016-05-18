@@ -1,10 +1,6 @@
 {
   "RadioPinoy": [
     {
-      "StationName": "Blazin 100",
-      "URL": "http://orion.shoutca.st:8093/stream"
-    },
-    {
       "StationName": "Pinoy Alternative Rock",
       "URL": "http://s8.voscast.com:8642"
     },
@@ -75,6 +71,10 @@
     {
       "StationName": "PINOY RADIO UK",
       "URL": "http://206.72.194.250:9972/;stream.mp3"
+    },
+    {
+      "StationName": "Blazin 100",
+      "URL": "http://orion.shoutca.st:8093/stream"
     }
   ],
   "FarsiRadio": [
@@ -902,10 +902,6 @@
     {
       "StationName": "Radio Viet Nam Hai Ngoai",
       "URL": "http://vpr.serverroom.us:7492/"
-    },
-    {
-      "StationName": "KYND Radio",
-      "URL": "http://68.168.103.13:8355/listen.pls"
     },
     {
       "StationName": "Saigon HD Radio",
