@@ -1,4 +1,12 @@
 {
+  "IranTube": [
+    {
+      "UseiAd": "NO",
+      "EnableChat": "YES",
+      "Message": "http://apps976.wix.com/khandeh",
+      "MessageID": "1"
+    }
+  ],
   "FarsiRadio": [
     {
       "UseiAd": "YES",
@@ -46,7 +54,7 @@
       "EnableChat": "YES",
       "EnableEchoNest": "YES",
       "Message": "http://apps976.wix.com/pinoyjokes",
-      "MessageID": "1"
+      "MessageID": "2"
     }
   ],
   "RadioVietnam": [
