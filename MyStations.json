@@ -5,12 +5,8 @@
       "URL": "http://s8.voscast.com:8642"
     },
     {
-      "StationName": "Pinoy Love Songs",
-      "URL": "http://s8.voscast.com:8666"
-    },
-    {
-      "StationName": "MOR 94.3 Dagupan",
-      "URL": "http://192.241.193.224:8059/mordagupan"
+      "StationName": "Pinoy Music Online",
+      "URL": "http://s8.voscast.com:8642"
     },
     {
       "StationName": "Himig Pinoy FM",
@@ -73,8 +69,8 @@
       "URL": "http://206.72.194.250:9972/;stream.mp3"
     },
     {
-      "StationName": "Blazin 100",
-      "URL": "http://orion.shoutca.st:8093/stream"
+      "StationName": "Blazin 99.3",
+      "URL": "http://eclipse.wavestreamer.com:9492"
     }
   ],
   "FarsiRadio": [
@@ -320,16 +316,8 @@
       "URL": "http://itori.animenfo.com:443/"
     },    
     {
-      "StationName": "Yume Anime Radio",
-      "URL": "http://usa8.fastcast4u.com:5813/;"
-    },       
-    {
       "StationName": "Rádio AniMiX",
       "URL": "http://192.99.35.31:8023/;"
-    },    
-    {
-      "StationName": "Radio AnimeID",
-      "URL": "http://199.217.118.14:8485/;"
     },    
     {
       "StationName": "Radio Rakuen",
@@ -380,10 +368,6 @@
       "URL": "http://streaming64.radionomy.com/RadioVocaloid"
     },
     {
-      "StationName": "FredFilmRadio",
-      "URL": "http://s4.webradio-hosting.com:2199/tunein/fredradiojp.pls"
-    },
-    {
       "StationName": "91.8 the Fan",
       "URL": "http://198.100.144.46:80/stream/1/"
     },
@@ -408,20 +392,16 @@
       "URL": "http://184.95.47.178:9112"
     },
     {
-      "StationName": "JapanRadio.ru",
-      "URL": "http://japanradio.ru:8000/play"
-    },
-    {
       "StationName": "JPop",
       "URL": "http://61.78.39.187:8000"
     },
     {
-      "StationName": "AnimeNexus",
-      "URL": "radio.animenexus.mx:8100/;"
-    },
-    {
       "StationName": "70s-90s J-pop Stream",
       "URL": "http://198.178.123.14:7002"
+    },
+    {
+      "StationName": "Anison.FM",
+      "URL": "http://s1.radio.ru-hoster.com:8000/AniSonFM(128)"
     },
     {
       "StationName": "Anime-stereo",
