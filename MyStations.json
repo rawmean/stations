@@ -316,6 +316,10 @@
       "URL": "http://itori.animenfo.com:443/"
     },    
     {
+      "StationName": "Blue Anime Ivana",
+      "URL": "http://streaming.radionomy.com/BlueAnimeIvana?lang=en-us"
+    },    
+    {
       "StationName": "Rádio AniMiX",
       "URL": "http://192.99.35.31:8023/;"
     },    
