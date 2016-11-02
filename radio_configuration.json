@@ -21,7 +21,7 @@
     {
       "UseiAd": "NO",
       "EnableChat": "NO",
-      "EnableEchoNest": "YES",
+      "EnableEchoNest": "NO",
       "Message": "https://sites.google.com/a/maadotaa.com/japanradiomessage/",
       "MessageID": "none"
     }
@@ -36,7 +36,7 @@
     {
       "UseiAd": "NO",
       "EnableChat": "YES",
-      "EnableEchoNest": "YES",
+      "EnableEchoNest": "NO",
       "Message": "http://quicktext.maadotaa.com",
       "MessageID": "none"
     }
@@ -45,14 +45,14 @@
     {
       "UseiAd": "NO",
       "EnableChat": "NO",
-      "EnableEchoNest": "YES"
+      "EnableEchoNest": "NO"
     }
   ],
   "RadioPinoy": [
     {
       "UseiAd": "NO",
       "EnableChat": "YES",
-      "EnableEchoNest": "YES",
+      "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/pinoyjokes",
       "MessageID": "2"
     }
@@ -61,7 +61,7 @@
     {
       "UseiAd": "NO",
       "EnableChat": "NO",
-      "EnableEchoNest": "YES"
+      "EnableEchoNest": "NO"
     }
   ],
   "QuickControl": [
