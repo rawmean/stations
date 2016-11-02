@@ -11,7 +11,7 @@
     {
       "UseiAd": "NO",
       "EnableChat": "YES",
-      "EnableEchoNest": "YES",
+      "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/khandeh",
       "MessageID": "12",
       "EnableSharing": "NO"
