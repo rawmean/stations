@@ -1,26 +1,6 @@
 {
   "RadioPinoy": [
     {
-      "StationName": "Monster Radio Rx",
-      "URL": "http://icecast.eradioportal.com:8000/monsterrx"
-    },
-    {
-      "StationName": "Yes! The Best 101",
-      "URL": "http://37.59.28.208:8500"
-    },
-    {
-      "StationName": "DZAS 702",
-      "URL": "http://icecast.eradioportal.com:8000/febc_dzas"
-    },
-    {
-      "StationName": "Love Radio 90.7",
-      "URL": "http://icecast.eradioportal.com:8000/loveradio_manila"
-    },
-    {
-      "StationName": "702 DZAS",
-      "URL": "http://icecast.eradioportal.com:8000/febc_dzas"
-    },
-    {
       "StationName": "Himig Pinoy FM",
       "URL": "http://s10.voscast.com:7260/listen.pls"
     },
@@ -71,6 +51,26 @@
     {
       "StationName": "PINOY RADIO UK",
       "URL": "http://206.72.194.250:9972/;stream.mp3"
+    },
+    {
+      "StationName": "Monster Radio Rx",
+      "URL": "http://icecast.eradioportal.com:8000/monsterrx"
+    },
+    {
+      "StationName": "Yes! The Best 101",
+      "URL": "http://37.59.28.208:8500"
+    },
+    {
+      "StationName": "DZAS 702",
+      "URL": "http://icecast.eradioportal.com:8000/febc_dzas"
+    },
+    {
+      "StationName": "Love Radio 90.7",
+      "URL": "http://icecast.eradioportal.com:8000/loveradio_manila"
+    },
+    {
+      "StationName": "702 DZAS",
+      "URL": "http://icecast.eradioportal.com:8000/febc_dzas"
     }
   ],
   "FarsiRadio": [
