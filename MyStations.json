@@ -75,6 +75,10 @@
   ],
   "FarsiRadio": [
     {
+      "StationName": "(Shadi) راديو شادى",
+      "URL": "http://ice9.securenetsystems.net/SHADI"
+    },
+    {
       "StationName": "Bia2",
       "URL": "http://199.58.163.15:8002/;"
     },
@@ -90,10 +94,6 @@
       "StationName": "(Radio Shoma) راديو شما",
       "URL": "http://19523.live.streamtheworld.com/RADIO_SHOMA_SC"
     },    
-    {
-      "StationName": "(Shadi) راديو شادى",
-      "URL": "http://ice9.securenetsystems.net/SHADI"
-    },
     {
       "StationName": "(Gramaphone) راديو گرامافون",
       "URL": "http://streaming.radio.co/sbf096dfac/listen"
