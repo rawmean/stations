@@ -88,8 +88,13 @@
     },
     {
       "StationName": "(Radio Shoma) راديو شما",
-      "URL": "http://10913.live.streamtheworld.com/RADIO_SHOMA_SC"
-    },    {
+      "URL": "http://19523.live.streamtheworld.com/RADIO_SHOMA_SC"
+    },    
+    {
+      "StationName": "(Shadi) راديو شادى",
+      "URL": "http://ice9.securenetsystems.net/SHADI"
+    },
+    {
       "StationName": "(Gramaphone) راديو گرامافون",
       "URL": "http://streaming.radio.co/sbf096dfac/listen"
     },
@@ -104,10 +109,6 @@
     {
       "StationName": "(Farda) راديو فردا", 
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
-    },
-    {
-      "StationName": "(ChizoMiz) راديو چيزوميز",
-      "URL": "http://87.117.201.57:8110/;stream.nsv"
     },
     {
       "StationName": "Radio 6o8",
@@ -131,7 +132,7 @@
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
+      "URL": "http://streaming.shoutcast.com/Hamsafarradio"
     },
     {
       "StationName": "i7 Radio",
