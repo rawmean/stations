@@ -14,7 +14,7 @@
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/khandeh",
       "MessageID": "12",
-      "EnableSharing": "NO"
+      "EnableSharing": "YES"
     }
   ],
   "Listen2Me": [
@@ -38,7 +38,8 @@
       "EnableChat": "YES",
       "EnableEchoNest": "NO",
       "Message": "http://quicktext.maadotaa.com",
-      "MessageID": "none"
+      "MessageID": "none",
+      "EnableSharing": "YES"
     }
   ],
   "KoreanRadios": [
