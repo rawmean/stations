@@ -111,6 +111,10 @@
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
     },
     {
+      "StationName": "Radio Muzik",
+      "URL": "http://84.216.35.188:8000/listen.m3u"
+    },
+    {
       "StationName": "Radio 6o8",
       "URL": "http://37.187.48.29:8000/2"
     },
@@ -121,10 +125,6 @@
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "http://audio.rangarang.us:8000/stream/4/"
-    },
-    {
-      "StationName": "(Ali) راديو على",
-      "URL": "http://192.184.9.79:8348"
     },
     {
       "StationName": "LPR (London)",
