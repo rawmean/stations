@@ -99,6 +99,10 @@
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
     },    
     {
+      "StationName": "(Niaz) راديو نياز",
+      "URL": "http://http://niazplay.se:8000/stream.mp3"
+    },    
+    {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
     },
