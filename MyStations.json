@@ -307,11 +307,7 @@
     {
       "StationName": "Blue Anime Ivana",
       "URL": "http://streaming.radionomy.com/BlueAnimeIvana?lang=en-us"
-    },    
-    {
-      "StationName": "Rádio AniMiX",
-      "URL": "http://192.99.35.31:8023/;"
-    },    
+    },       
     {
       "StationName": "Radio Rakuen",
       "URL": "http://67.212.165.162:7018/;"
@@ -324,10 +320,6 @@
       "StationName": "AnimeFM",
       "URL": "http://stream3.laut.fm/animefm"
     },    
-    {
-      "StationName": "Shinsen Radio",
-      "URL": "http://radioserv1.shinsen-radio.org:8000/stream"
-    },
     {
       "StationName": "Anime Obsesion",
       "URL": "http://animeobsesion.net:8000/;"
@@ -361,32 +353,12 @@
       "URL": "http://streaming64.radionomy.com/RadioVocaloid"
     },
     {
-      "StationName": "91.8 the Fan",
-      "URL": "http://198.100.144.46:80/stream/1/"
-    },
-    {
-      "StationName": "AnimeAmaze",
-      "URL": "http://apple.neostreams.info:10007/"
-    },
-    {
-      "StationName": "Anime Blast Radio Classic",
-      "URL": "http://perseus.shoutca.st:8862/stream"
-    },
-    {
-      "StationName": "Extreme Anime Radio",
-      "URL": "http://knr128.keiichi.net/"
-    },
-    {
       "StationName": "Armitage's Dimension",
       "URL": "http://mp3.fr.armitunes.com:8000/listen.pls"
     },
     {
       "StationName": "Big B Radio",
       "URL": "http://184.95.47.178:9112"
-    },
-    {
-      "StationName": "JPop",
-      "URL": "http://61.78.39.187:8000"
     },
     {
       "StationName": "70s-90s J-pop Stream",
