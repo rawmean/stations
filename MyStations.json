@@ -303,11 +303,7 @@
     {
       "StationName": "AnimeNfo Radio",
       "URL": "http://itori.animenfo.com:443/"
-    },    
-    {
-      "StationName": "Blue Anime Ivana",
-      "URL": "http://streaming.radionomy.com/BlueAnimeIvana?lang=en-us"
-    },       
+    },         
     {
       "StationName": "Radio Rakuen",
       "URL": "http://67.212.165.162:7018/;"
@@ -341,16 +337,8 @@
       "URL": "http://audio.misproductions.com/japan128k"
     },
     {
-      "StationName": "J-PopProject Radio",
-      "URL": "http://streaming.radionomy.com/J-PopProjectRadio"
-    },
-    {
       "StationName": "JPopsuki-Radio",
       "URL": "http://jpopsuki.fm:8000/stream"
-    },
-    {
-      "StationName": "RadioVocaloid",
-      "URL": "http://streaming64.radionomy.com/RadioVocaloid"
     },
     {
       "StationName": "Armitage's Dimension",
@@ -367,10 +355,6 @@
     {
       "StationName": "Anison.FM",
       "URL": "http://s1.radio.ru-hoster.com:8000/AniSonFM(128)"
-    },
-    {
-      "StationName": "Anime-stereo",
-      "URL": "http://listen.radionomy.com/anime-stereo.m3u"
     }
   ],
   "Listen2Me": [
