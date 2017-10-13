@@ -118,6 +118,10 @@
       "StationName": "(Hamsafar) راديو همسفر",
       "URL": "http://streaming.shoutcast.com/Hamsafarradio"
     },
+   {
+      "StationName": "Darvish",
+      "URL": "http://50.22.218.73/stream.mp3?ipport=50.22.218.73_24445"
+    },    
     {
       "StationName": "i7 Radio",
       "URL": "http://stream.i7radio.com/high"
