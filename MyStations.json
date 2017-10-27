@@ -59,6 +59,14 @@
   ],
   "FarsiRadio": [
     {
+      "StationName": "RFI Persian",
+      "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
+    },
+    {
+      "StationName": "Persian Rap",
+      "URL": "http://play.datafaryad.com:8000/live128.mp3"
+    },  
+    {
       "StationName": "(Shadi) راديو شادى",
       "URL": "http://ice9.securenetsystems.net/SHADI"
     },
@@ -77,6 +85,10 @@
     {
       "StationName": "(Gramaphone) راديو گرامافون",
       "URL": "http://streaming.radio.co/sbf096dfac/listen"
+    },
+    {
+      "StationName": "AzazFarsi",
+      "URL": "http://www.avazfarsi.com:9300/;"
     },
     {
       "StationName": "(Faryad) راديو فرياد",
@@ -122,10 +134,6 @@
       "StationName": "Darvish",
       "URL": "http://50.22.218.73/stream.mp3?ipport=50.22.218.73_24445"
     },    
-    {
-      "StationName": "i7 Radio",
-      "URL": "http://stream.i7radio.com/high"
-    },
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
