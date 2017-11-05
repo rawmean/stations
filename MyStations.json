@@ -1,9 +1,5 @@
-{
+dallas
   "RadioPinoy": [
-    {
-      "StationName": "Himig Pinoy FM",
-      "URL": "http://s10.voscast.com:7260/listen.pls"
-    },
     {
       "StationName": "Pinoy Music Radio",
       "URL": "http://s1.voscast.com:8230/"
@@ -30,7 +26,7 @@
     },
     {
       "StationName": "COOL FM 90.1",
-      "URL": "http://s4.reliastream.com:8002/;"
+      "URL": "http://equinox.shoutca.st:8938/;"
     },
     {
       "StationName": "Joko Jun Radio",
@@ -817,20 +813,12 @@
       "URL": "http://ice5.securenetsystems.net/KVVN"
     },
     {
-      "StationName": "Radio Saigon Dallas",
-      "URL": "http://67.212.189.122:8068"
-    },
-    {
       "StationName": "Vietnam-Minnesota",
       "URL": "http://tres.kfai.org:8000/"
     },
     {
       "StationName": "Traditional music",
       "URL": "http://archive.org/download/VietnameseTraditionalMusicRadioProgram2012/ToiYeuCoNhac07292012.mp3"
-    },
-    {
-      "StationName": "Cherry Radio",
-      "URL": "http://50.7.96.210:8618"
     },
     {
       "StationName": "Cherry Radio: Youth",
@@ -845,12 +833,8 @@
       "URL": "http://170.75.194.209:8888/listen.pls"
     },
     {
-      "StationName": "RFI Vietnamese",
-      "URL": "http://rfi-vietnamien.scdn.arkena.com/rfivietnamien.mp3"
-    },
-    {
-      "StationName": "R Sputnik Vietnamese",
-      "URL": "http://audio1.video.ria.ru/voicevnm.m3u"
+      "StationName": "RFI vietnamien",
+      "URL": "http://live02.rfi.fr/rfienvietnamien-64.mp3"
     },
     {
       "StationName": "Nationwide Viet HD",
@@ -858,7 +842,7 @@
     },
     {
       "StationName": "TNT Radio",
-      "URL": "http://peter7.primcast.com:4088/;stream.mp3"
+      "URL": "162.244.80.118:3092/;stream.mp3"
     }, 
     {
       "StationName": "VietNam Public Radio",
