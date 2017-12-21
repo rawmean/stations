@@ -63,6 +63,13 @@
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
     },
     {
+      "StationName": "(Hamrah) راديو همراه",
+      "URL": "http://stream.radiohamrah.com/RadioHamrahAAC"
+    },
+    {
+      "StationName": "KIRN 670 AM",
+      "URL": "http://ice41.securenetsystems.net:80/KIRN"
+    },     {
       "StationName": "Persian Rap",
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
     },  
@@ -73,18 +80,6 @@
     {
       "StationName": "Bia2",
       "URL": "http://199.58.163.15:8002/;"
-    },
-    {
-      "StationName": "(Hamrah) راديو همراه",
-      "URL": "http://stream.radiohamrah.com/RadioHamrahAAC"
-    },
-    {
-      "StationName": "KIRN 670 AM",
-      "URL": "http://ice41.securenetsystems.net:80/KIRN"
-    },  
-    {
-      "StationName": "(Gramaphone) راديو گرامافون",
-      "URL": "http://streaming.radio.co/sbf096dfac/listen"
     },
     {
       "StationName": "AvazFarsi",
