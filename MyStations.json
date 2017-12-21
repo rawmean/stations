@@ -55,6 +55,10 @@
   ],
   "FarsiRadio": [
     {
+      "StationName": "Ma va Shoma (ما و شما)",
+      "URL": "http://hemnos.cdnstream.com:80/1877_64"
+    },
+    {
       "StationName": "RFI Persian",
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
     },
