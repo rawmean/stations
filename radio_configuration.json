@@ -10,11 +10,11 @@
   "FarsiRadio": [
     {
       "UseiAd": "NO",
-      "EnableChat": "YES",
+      "EnableChat": "NO",
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/khandeh",
       "MessageID": "12",
-      "EnableSharing": "YES"
+      "EnableSharing": "NO"
     }
   ],
   "Listen2Me": [
