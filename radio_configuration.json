@@ -52,11 +52,11 @@
   "RadioPinoy": [
     {
       "UseiAd": "NO",
-      "EnableChat": "NO",
+      "EnableChat": "YES",
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/pinoyjokes",
       "MessageID": "none",
-      "EnableSharing": "NO"
+      "EnableSharing": "YES"
     }
   ],
   "RadioVietnam": [
