@@ -111,20 +111,12 @@
       "URL": "http://91.121.134.23:8300/stream"
     },
     {
-      "StationName": "Radio Muzik",
-      "URL": "http://84.216.35.188:8000/listen.m3u"
-    },
-    {
       "StationName": "(Donya) راديو دنيا",
       "URL": "http://naxos.cdnstream.com/1305_128"
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "http://audio.rangarang.us:8000/stream/4/"
-    },
-    {
-      "StationName": "LPR (London)",
-      "URL": "http://198.178.123.11:7574"
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
