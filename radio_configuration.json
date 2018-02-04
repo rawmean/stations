@@ -55,7 +55,8 @@
       "EnableChat": "YES",
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/pinoyjokes",
-      "MessageID": "2"
+      "MessageID": "none",
+      "EnableSharing": "YES"
     }
   ],
   "RadioVietnam": [
