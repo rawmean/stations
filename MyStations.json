@@ -55,10 +55,6 @@
   ],
   "FarsiRadio": [
     {
-      "StationName": "Ma va Shoma (ما و شما)",
-      "URL": "http://hemnos.cdnstream.com:80/1877_64"
-    },
-    {
       "StationName": "(Hamrah) راديو همراه",
       "URL": "http://stream.radiohamrah.com/RadioHamrahAAC"
     },
@@ -79,17 +75,21 @@
       "URL": "http://us3.internet-radio.com:8323/;stream"
     },
     {
-      "StationName": "Persian Rap",
-      "URL": "http://play.datafaryad.com:8000/live128.mp3"
-    },  
-    {
       "StationName": "(Shadi) راديو شادى",
-      "URL": "http://ice9.securenetsystems.net/SHADI"
+      "URL": "http://ice9.securenetsystems.net/media/SHADI/ondemand/Live-Music-Webcast-2.m4a"
     },
     {
       "StationName": "Bia2",
       "URL": "http://199.58.163.15:8002/;"
     },
+    {
+      "StationName": "Ma va Shoma (ما و شما)",
+      "URL": "http://hemnos.cdnstream.com:80/1877_64"
+    },
+    {
+      "StationName": "Persian Rap",
+      "URL": "http://play.datafaryad.com:8000/live128.mp3"
+    },  
     {
       "StationName": "RFI Persian",
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
