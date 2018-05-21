@@ -72,7 +72,7 @@
     },
     {
       "StationName": "(Shadi) راديو شادى",
-      "URL": "http://ice9.securenetsystems.net/media/SHADI/ondemand/Live-Music-Webcast-2.m4a"
+      "URL": "http://ice9.securenetsystems.net/SHADI?"
     },
     {
       "StationName": "Bia2",
@@ -81,10 +81,6 @@
     {
       "StationName": "(SarCheshmeh) راديو سرچشمه",
       "URL": "http://87.117.228.65:32746/stream"
-    },
-    {
-      "StationName": "Ma va Shoma (ما و شما)",
-      "URL": "http://hemnos.cdnstream.com:80/1877_64"
     },
     {
       "StationName": "Persian Rap",
@@ -103,10 +99,6 @@
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
     },    
     {
-      "StationName": "(Niaz) راديو نياز",
-      "URL": "http://niazplay.se:8000/stream.mp3"
-    },    
-    {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
     },
@@ -118,14 +110,7 @@
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "http://audio.rangarang.us:8000/stream/4/"
     },
-    {
-      "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://streaming.shoutcast.com/Hamsafarradio"
-    },
-   {
-      "StationName": "Darvish",
-      "URL": "http://50.22.218.73/stream.mp3?ipport=50.22.218.73_24445"
-    },    
+   
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
