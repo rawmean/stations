@@ -83,6 +83,10 @@
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
     {
+      "StationName": "(Hamsafar) راديو همسفر",
+      "URL": "http://streaming.shoutcast.com/Hamsafarradio"
+    },
+    {
       "StationName": "Persian Rap",
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
     },  
