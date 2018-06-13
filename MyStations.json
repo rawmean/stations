@@ -71,6 +71,10 @@
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
     },
     {
+      "StationName": "Radio ITN",
+      "URL": "http://23.29.71.154:8142/;stream"
+    },    
+    {
       "StationName": "(Shadi) راديو شادى",
       "URL": "http://ice9.securenetsystems.net/SHADI?"
     },
@@ -84,7 +88,7 @@
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://streaming.shoutcast.com/Hamsafarradio"
+      "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
     },
     {
       "StationName": "Persian Rap",
