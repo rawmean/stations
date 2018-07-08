@@ -789,16 +789,16 @@
   ],
   "RadioVietnam": [
     {
-      "StationName": "Saigon radio KALI",
-      "URL": "http://ice5.securenetsystems.net/KALI"
+      "StationName": "Viên Thao",
+      "URL": "http://173.193.205.96:2199/tunein/vienthaoradio.pls"
     },
     {
-      "StationName": "Saigon radio KREH",
-      "URL": "http://ice5.securenetsystems.net/KREH"
+      "StationName": "Nationwide Viet Radio",
+      "URL": "http://s4.radioboss.fm:8251/stream"
     },
     {
-      "StationName": "Saigon radio KVVN",
-      "URL": "http://ice5.securenetsystems.net/KVVN"
+      "StationName": "Dai Phat Thanh Viet Nam",
+      "URL": "http://s4.radioboss.fm:8251/stream"
     },
     {
       "StationName": "Vietnam-Minnesota",
@@ -830,7 +830,7 @@
     },
     {
       "StationName": "TNT Radio",
-      "URL": "162.244.80.118:3092/;stream.mp3"
+      "URL": "162.244.80.118:3092/stream/1/"
     }, 
     {
       "StationName": "VietNam Public Radio",
