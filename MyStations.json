@@ -1,5 +1,5 @@
 {
-    "RadioPinoy": [
+  "RadioPinoy": [
     {
       "StationName": "Pinoy Music Radio",
       "URL": "http://s1.voscast.com:8230/"
@@ -47,7 +47,7 @@
     {
       "StationName": "PINOY RADIO Germany",
       "URL": "http://206.72.194.250:8030/;"
-    },    
+    },
     {
       "StationName": "Yes! The Best 101",
       "URL": "http://37.59.28.208:8500"
@@ -61,19 +61,19 @@
     {
       "StationName": "KIRN 670 AM",
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
-    },     
+    },
     {
       "StationName": "(Javan) راديو جوان",
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-      "StationName": "(Farda) راديو فردا", 
+      "StationName": "(Farda) راديو فردا",
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
     },
     {
       "StationName": "Radio ITN",
       "URL": "http://23.29.71.154:8142/;stream"
-    },    
+    },
     {
       "StationName": "(Shadi) راديو شادى",
       "URL": "http://ice9.securenetsystems.net/SHADI?"
@@ -93,7 +93,7 @@
     {
       "StationName": "Persian Rap",
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
-    },  
+    },
     {
       "StationName": "RFI Persian",
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
@@ -105,7 +105,7 @@
     {
       "StationName": "(Faryad) راديو فرياد",
       "URL": "http://play.datafaryad.com:8000/live128.mp3"
-    },    
+    },
     {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
@@ -121,7 +121,7 @@
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
-    }  
+    }
   ],
   "ThaiRadios": [
     {
@@ -217,7 +217,7 @@
       "URL": "http://122.155.16.158:6178"
     }
   ],
-  "KoreanRadios": [   
+  "KoreanRadios": [
     {
       "StationName": "KPOP @ Big B Radio",
       "URL": "http://184.95.62.170:9002/"
@@ -299,19 +299,19 @@
     {
       "StationName": "AnimeNfo Radio",
       "URL": "http://itori.animenfo.com:443/"
-    },         
+    },
     {
       "StationName": "Radio Rakuen",
       "URL": "http://67.212.165.162:7018/;"
-    },    
+    },
     {
       "StationName": "Otaku no Radio",
       "URL": "http://radio.otakunopodcast.com:8000/otakunoradio"
-    },    
+    },
     {
       "StationName": "AnimeFM",
       "URL": "http://stream3.laut.fm/animefm"
-    },    
+    },
     {
       "StationName": "Anime Obsesion",
       "URL": "http://animeobsesion.net:8000/;"
@@ -355,56 +355,28 @@
   ],
   "Listen2Me": [
     {
-      "StationName": "KCRW Music",
-      "URL": "http://kcrw.ic.llnwd.net/stream/kcrw_music"
+      "StationName": "KCRW Live",
+      "URL": "http://media.kcrw.com/pls/kcrwsimulcast.pls"
     },
     {
-      "StationName": "KCRW Live ",
-      "URL": "http://kcrw.ic.llnwd.net/stream/kcrw_live"
+      "StationName": "KCRW Eclectic24",
+      "URL": "http://media.kcrw.com/pls/kcrwmusic.pls"
     },
     {
-      "StationName": "Dinner Jazz Excursion",
-      "URL": "http://sc01.warpradio.com:8240/"
+      "StationName": "KCRW Santa Barbara",
+      "URL": "http://media.kcrw.com/pls/kcrwsantabarbara.pls"
     },
     {
       "StationName": "KSDS Jazz",
       "URL": "http://listen.jazz88.org/ksds.mp3"
     },
     {
-      "StationName": "4Clubbers",
-      "URL": "http://87.98.163.6:8200/"
-    },
-    {
-      "StationName": "RadioSkyMusic",
-      "URL": "http://streaming.radionomy.com/Mistura-Fina-Instrumental"
-    },
-    {
-      "StationName": "coolradio jazz",
-      "URL": "http://4broadcast.de:8000/coolradio-jazz-128s.mp3"
-    },
-    {
       "StationName": "Jazz 24",
       "URL": "http://icy1.abacast.com:80/kplu-jazz24aac-64"
     },
     {
-      "StationName": "JazzClub",
-      "URL": "http://streaming208.radionomy.com/JAZZCLUB?group=825&countrycode=US&similarprocess=0&crashed=0"
-    },
-    {
       "StationName": "Only Jazz",
       "URL": "http://listen.radionomy.com/onlyjazz"
-    },
-    {
-      "StationName": "Flamenco Beat Radio",
-      "URL": "http://216.19.176.225:26000"
-    },
-    {
-      "StationName": "Radio Sevillanas",
-      "URL": "http://94.75.209.28:8192/"
-    },
-    {
-      "StationName": "Radio Contepomi",
-      "URL": "http://radio.contepomi.net:9991"
     },
     {
       "StationName": "Radio Paradise",
@@ -415,84 +387,16 @@
       "URL": "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h"
     },
     {
-      "StationName": "ABC Jazz",
-      "URL": "http://listen.radionomy.com/abc-jazz"
-    },
-    {
-      "StationName": "RadioSky",
-      "URL": "http://listen.radionomy.com/RadioSky-Music"
-    },
-    {
       "StationName": "Adore Jazz",
       "URL": "http://205.164.35.21:80"
-    },
-    {
-      "StationName": "Air Jazz",
-      "URL": "http://listen.radionomy.com/air-jazz"
     },
     {
       "StationName": "Beejazz",
       "URL": "http://listen.radionomy.com/beejazz"
     },
     {
-      "StationName": "KUAZ News and Jazz",
-      "URL": "http://streaming.azpm.org/kuaz192.mp3"
-    },
-    {
-      "StationName": "WWNO-3 New Orleans",
-      "URL": "http://nyc01.egihosting.com:18840/listen.pls"
-    },
-    {
-      "StationName": "WDNA 88.9FM",
-      "URL": "http://war.str3am.com:7990/"
-    },
-    {
       "StationName": "Chillout",
       "URL": "http://mp3channels.webradio.antenne.de/chillout"
-    },
-    {
-      "StationName": "Swiss Internet Radio",
-      "URL": "http://82.197.167.140:80"
-    },
-    {
-      "StationName": "Play Misty for Me",
-      "URL": "http://listen.radionomy.com/Play-Misty-for-Me"
-    },
-    {
-      "StationName": "BBC World Service",
-      "URL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
-    },
-    {
-      "StationName": "WUSF",
-      "URL": "http://131.247.45.225:8128"
-    },
-    {
-      "StationName": "WGBH",
-      "URL": "http://audio.wgbh.org:8000"
-    },
-    {
-      "StationName": "BCC Radio 1",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio1_p?s=1333576253&e=1333590653&h=4c89293cdc8fa59cf2a8a4b913d59976"
-    },
-    {
-      "StationName": "BBC Radio 2",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio2_p?s=1333576277&e=1333590677&h=f7a08eae8e7f81dbac9d6f9e15a260b0"
-    },
-    {
-      "StationName": "BBC Radio 3",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio3_p?s=1333576282&e=1333590682&h=59cd60661725bca59c3e8fc46e918bc2"
-    },
-    {
-      "StationName": "BBC 6Music",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_6music_p?s=1333576314&e=1333590714&h=c606d3eaf128c0abbe72341973c7e60d"
-    },
-    {
-      "StationName": "BBC 1Xtra",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_1xtra_p?s=1333576331&e=1333590731&h=6b7675ec61a7357aeec4a068f94e8178"
-    },
-    {
-      "StationName": "BBC 5Live",
-      "URL": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5live_p?s=1333576360&e=1333590760&h=5277712416bedff9841efd2c3329d669"
     }
   ],
   "IndianRadios": [
@@ -831,7 +735,7 @@
     {
       "StationName": "TNT Radio",
       "URL": "162.244.80.118:3092/stream/1/"
-    }, 
+    },
     {
       "StationName": "VietNam Public Radio",
       "URL": "http://vpr.serverroom.us:7492"
