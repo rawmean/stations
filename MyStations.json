@@ -355,8 +355,8 @@
   ],
   "Listen2Me": [
     {
-      "StationName": "KCRW Live",
-      "URL": "http://media.kcrw.com/pls/kcrwsimulcast.pls"
+      "StationName": "Audiophile Jazz",
+      "URL": "http://8.38.78.173:8210/stream/1/"
     },
     {
       "StationName": "KCRW Eclectic24",
