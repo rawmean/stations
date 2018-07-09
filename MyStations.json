@@ -358,6 +358,10 @@
       "StationName": "Audiophile Jazz",
       "URL": "http://8.38.78.173:8210/stream/1/"
     },
+       {
+      "StationName": "Linn Jazz",
+      "URL": "8.38.78.173:8226/stream/1/"
+    },
     {
       "StationName": "KCRW Eclectic24",
       "URL": "http://media.kcrw.com/pls/kcrwmusic.pls"
