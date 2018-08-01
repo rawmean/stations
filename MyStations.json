@@ -69,6 +69,10 @@
     {
       "StationName": "(Farda) راديو فردا",
       "URL": "http://21.akacast.akamaistream.net/7/989/229671/v1/ibb.akacast.akamaistream.net/rfe_channel_21.mp3"
+    },    
+    {
+      "StationName": "(Donya) راديو دنيا",
+      "URL": "http://ample-zeno-04.radiojar.com/qc5yb40sdceuv?rj-ttl=4&rj-token=AAABZOzvltMI4QMoqAIdhKe1L2zEa6aU3KIjENodQ2yHp-N5RWHeLw"
     },
     {
       "StationName": "Radio ITN",
@@ -109,10 +113,6 @@
     {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
-    },
-    {
-      "StationName": "(Donya) راديو دنيا",
-      "URL": "http://ample-zeno-04.radiojar.com/qc5yb40sdceuv?rj-ttl=4&rj-token=AAABZOzvltMI4QMoqAIdhKe1L2zEa6aU3KIjENodQ2yHp-N5RWHeLw"
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
