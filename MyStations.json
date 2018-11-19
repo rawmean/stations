@@ -301,16 +301,28 @@
       "URL": "http://itori.animenfo.com:443/"
     },
     {
-      "StationName": "Radio Rakuen",
-      "URL": "http://67.212.165.162:7018/;"
+      "StationName": "ASIA DREAM-Japan Hits",
+      "URL": "http://bluford.torontocast.com:8504/stream/;"
+    },
+    {
+      "StationName": "J-POP SAKURA 17",
+      "URL": "http://sky1.torontocast.com:9033/stream/;"
+    },
+    {
+      "StationName": "J-ROCK - POWERPLAY",
+      "URL": "http://sky1.torontocast.com:9088/stream/;"
+    },
+    {
+      "StationName": "J-POP-KAWAII",
+      "URL": "http://sky1.torontocast.com:9029/stream/;"
     },
     {
       "StationName": "Otaku no Radio",
       "URL": "http://radio.otakunopodcast.com:8000/otakunoradio"
     },
     {
-      "StationName": "AnimeFM",
-      "URL": "http://stream3.laut.fm/animefm"
+      "StationName": "J-POP PROJECT RADIO",
+      "URL": "http://agnes.torontocast.com:8083/stream/;/;"
     },
     {
       "StationName": "Anime Obsesion",
@@ -345,8 +357,8 @@
       "URL": "http://184.95.47.178:9112"
     },
     {
-      "StationName": "70s-90s J-pop Stream",
-      "URL": "http://198.178.123.14:7002"
+      "StationName": "J-Pop PowerPlay",
+      "URL": "http://agnes.torontocast.com:8102/stream/;"
     },
     {
       "StationName": "Anison.FM",
