@@ -306,11 +306,11 @@
     },
     {
       "StationName": "J-POP SAKURA 17",
-      "URL": "http://sky1.torontocast.com:9033/stream/;"
+      "URL": "http://bb31.sonixcast.com:20278/;stream.nsv"
     },
     {
-      "StationName": "J-ROCK - POWERPLAY",
-      "URL": "http://sky1.torontocast.com:9088/stream/;"
+      "StationName": "J-POP - POWERPLAY",
+      "URL": "http://bb30.sonixcast.com:9628/"
     },
     {
       "StationName": "J-POP-KAWAII",
