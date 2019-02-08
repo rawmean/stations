@@ -317,16 +317,20 @@
       "URL": "http://bb31.sonixcast.com:20002/"
     },
     {
+      "StationName": "J-Rock - POWERPLAY",
+      "URL": "http://bb30.sonixcast.com:9508/"
+    },
+    {
       "StationName": "Otaku no Radio",
       "URL": "http://radio.otakunopodcast.com:8000/otakunoradio"
     },
     {
       "StationName": "J-POP PROJECT RADIO",
-      "URL": "http://agnes.torontocast.com:8083/stream/;/;"
+      "URL": "http://streaming.radionomy.com/JamendoLounge"
     },
     {
       "StationName": "Anime Obsesion",
-      "URL": "http://animeobsesion.net:8000/;"
+      "URL": "http://animeobsesion.pe:8000/"
     },
     {
       "StationName": "Anison.FM",
@@ -335,10 +339,6 @@
     {
       "StationName": "Hotmixradio Japan",
       "URL": "http://streaming.hotmixradio.fm/hotmixradio-japan-128.mp3"
-    },
-    {
-      "StationName": "Yggdrasil Radio",
-      "URL": "http://95.211.241.92:9200/;"
     },
     {
       "StationName": "Japan-A-Radio",
