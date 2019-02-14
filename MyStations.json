@@ -71,16 +71,16 @@
       "URL": "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21?download=1"
     },    
     {
+      "StationName": "(Donya) راديو دنيا",
+      "URL": "http://ais-sa2.cdnstream1.com/1305_128.mp3"
+    },
+    {
       "StationName": "Radio Shoma (راديو شما)",
       "URL": "http://19373.live.streamtheworld.com:80/RADIO_SHOMA.mp3"
     },
     {
       "StationName": "(Ava) راديو آوا",
       "URL": "http://api.radio.net/playlist/avalondon.m3u8?apikey=83b64b05843237736ca8f11bccb155ffa69a3094"
-    },
-    {
-      "StationName": "(Donya) راديو دنيا",
-      "URL": "http://ais-sa2.cdnstream1.com/1305_128.mp3"
     },
     {
       "StationName": "Radio ITN",
