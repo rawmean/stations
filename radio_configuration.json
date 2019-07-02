@@ -10,7 +10,7 @@
   "FarsiRadio": [
     {
       "UseiAd": "NO",
-      "EnableChat": "YES",
+      "EnableChat": "NO",
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wixsite.com/farsicast",
       "MessageID": "38",
@@ -35,7 +35,7 @@
   "JapanRadios": [
     {
       "UseiAd": "NO",
-      "EnableChat": "YES",
+      "EnableChat": "NO",
       "EnableEchoNest": "NO",
       "Message": "http://quicktext.maadotaa.com",
       "MessageID": "none",
@@ -52,7 +52,7 @@
   "RadioPinoy": [
     {
       "UseiAd": "NO",
-      "EnableChat": "YES",
+      "EnableChat": "NO",
       "EnableEchoNest": "NO",
       "Message": "http://apps976.wix.com/pinoyjokes",
       "MessageID": "none",
