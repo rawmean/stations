@@ -76,7 +76,7 @@
     },
     {
       "StationName": "Radio Shoma (راديو شما)",
-      "URL": "http://19373.live.streamtheworld.com:80/RADIO_SHOMA.mp3"
+      "URL": "http://ample-01.radiojar.com/rmzawtdbsxquv?rj-ttl=5&rj-tok=AAABbpARbmIAt4qmmEzolkKpSg"
     },
     {
       "StationName": "(Ava) راديو آوا",
@@ -103,8 +103,8 @@
       "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
     },
     {
-      "StationName": "Persian Rap",
-      "URL": "http://play.datafaryad.com:8000/live128.mp3"
+      "StationName": "Radio Faaz",
+      "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
       "StationName": "RFI Persian",
@@ -113,10 +113,6 @@
     {
       "StationName": "AvazFarsi",
       "URL": "http://www.avazfarsi.com:9300/;"
-    },
-    {
-      "StationName": "(Faryad) راديو فرياد",
-      "URL": "http://play.datafaryad.com:8000/live128.mp3"
     },
     {
       "StationName": "(Hamegan) رادیو همهگان",
