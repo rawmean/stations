@@ -79,6 +79,10 @@
       "URL": "http://ample-01.radiojar.com/rmzawtdbsxquv?rj-ttl=5&rj-tok=AAABbpARbmIAt4qmmEzolkKpSg"
     },
     {
+      "StationName": "Radio Yar (رادیو یار)",
+      "URL": "http://38.99.146.102:8000/RadioYAR.mp3"
+    },
+    {
       "StationName": "(Ava) راديو آوا",
       "URL": "http://api.radio.net/playlist/avalondon.m3u8?apikey=83b64b05843237736ca8f11bccb155ffa69a3094"
     },
