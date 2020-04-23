@@ -56,7 +56,7 @@
   "FarsiRadio": [
     {
       "StationName": "(Hamrah) راديو همراه",
-      "URL": "http://stream.radiohamrah.com/RadioHamrahMP3"
+      "URL": "https://node-27.zeno.fm/nezaycc28vzuv?rj-ttl=5&rj-tok=AAABcaQL-ScAz1vihUgSxSrJvw"
     },
     {
       "StationName": "KIRN 670 AM",
@@ -76,7 +76,7 @@
     },
     {
       "StationName": "Radio Shoma (راديو شما)",
-      "URL": "http://ample-01.radiojar.com/rmzawtdbsxquv?rj-ttl=5&rj-tok=AAABbpARbmIAt4qmmEzolkKpSg"
+      "URL": "http://stream.radiojar.com/rmzawtdbsxquv"
     },
     {
       "StationName": "Radio Yar (رادیو یار)",
