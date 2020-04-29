@@ -103,8 +103,12 @@
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
     {
-      "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
+      "StationName": "Radio 6o8",
+      "URL": "http://radio6o8.com:8000/strem"
+    },
+    {
+      "StationName": "Radio Mahoor",
+      "URL": "http://38.99.146.102:8000/mahoor.mp3"
     },
     {
       "StationName": "Radio Faaz",
@@ -115,16 +119,20 @@
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
     },
     {
-      "StationName": "AvazFarsi",
-      "URL": "http://www.avazfarsi.com:9300/;"
-    },
-    {
       "StationName": "(Hamegan) رادیو همهگان",
       "URL": "http://91.121.134.23:8300/stream"
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "http://audio.rangarang.us:8000/stream/4/"
+    },
+    {
+      "StationName": "(Hamsafar) راديو همسفر",
+      "URL": "http://listen.shoutcast.com/Hamsafarradio.m3u"
+    },
+    {
+      "StationName": "AvazFarsi",
+      "URL": "http://www.avazfarsi.com:9300/;"
     },
     {
       "StationName": "(Nava) راديو نوا",
