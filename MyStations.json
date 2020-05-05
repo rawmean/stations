@@ -99,10 +99,6 @@
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
     {
-      "StationName": "Radio 6o8",
-      "URL": "http://radio6o8.com:8000/strem"
-    },
-    {
       "StationName": "Radio Mahoor",
       "URL": "http://38.99.146.102:8000/mahoor.mp3"
     },
@@ -133,6 +129,10 @@
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
+    },
+    {
+      "StationName": "Radio 6o8",
+      "URL": "http://radio6o8.com:8000/strem"
     },
     {
       "StationName": "(Ava) راديو آوا",
