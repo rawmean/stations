@@ -91,10 +91,6 @@
       "URL": "http://ice9.securenetsystems.net/SHADI?"
     },
     {
-      "StationName": "Bia2",
-      "URL": "http://199.58.163.15:8002/;"
-    },
-    {
       "StationName": "Ma va Shoma (ما و شما)",
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
@@ -129,6 +125,10 @@
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
+    },
+    {
+      "StationName": "Bia2",
+      "URL": "http://199.58.163.15:8002/;"
     },
     {
       "StationName": "Radio 6o8",
