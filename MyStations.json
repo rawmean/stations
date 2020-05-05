@@ -83,10 +83,6 @@
       "URL": "http://38.99.146.102:8000/RadioYAR.mp3"
     },
     {
-      "StationName": "(Ava) راديو آوا",
-      "URL": "http://api.radio.net/playlist/avalondon.m3u8?apikey=83b64b05843237736ca8f11bccb155ffa69a3094"
-    },
-    {
       "StationName": "Radio ITN",
       "URL": "http://23.29.71.154:8142/;stream"
     },
@@ -137,6 +133,10 @@
     {
       "StationName": "(Nava) راديو نوا",
       "URL": "http://5.39.71.159:8578/stream"
+    },
+    {
+      "StationName": "(Ava) راديو آوا",
+      "URL": "http://api.radio.net/playlist/avalondon.m3u8?apikey=83b64b05843237736ca8f11bccb155ffa69a3094"
     }
   ],
   "ThaiRadios": [
