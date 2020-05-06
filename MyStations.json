@@ -6,15 +6,15 @@
     },
     {
       "StationName": "Pinoy Love Radio",
-      "URL": "http://s6.voscast.com:8562"
+      "URL": "https://manilabr.radioca.st/;"
     },
     {
       "StationName": "RAKISTA Radio",
-      "URL": "http://rakista.com:8000/listen128.mp3"
+      "URL": "http://206.190.138.197:8000/listen128.mp3"
     },
     {
       "StationName": "Radyo KBYN",
-      "URL": "http://radyokabayan.serverhostingcenter.com:9044/"
+      "URL": "http://204.141.167.21:10500/;"
     },
     {
       "StationName": "Tunog Pinoy Radio",
@@ -30,7 +30,7 @@
     },
     {
       "StationName": "Joko Jun Radio",
-      "URL": "http://jokojun.servemp3.com:1414/radio"
+      "URL": "http://www.jokojun.com/radio.m3u"
     },
     {
       "StationName": "V-Hive Radio",
