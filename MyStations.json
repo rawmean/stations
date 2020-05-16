@@ -67,10 +67,6 @@
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-      "StationName": "(Shemroon) رادیو شمرون",
-      "URL": "http://188.165.192.5:9146/stream?type=http&nocache=6136"
-    },
-    {
       "StationName": "(Farda) راديو فردا",
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
