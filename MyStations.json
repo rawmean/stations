@@ -79,6 +79,10 @@
       "URL": "http://stream.radiojar.com/rmzawtdbsxquv"
     },
     {
+      "StationName": "Radio Bamdad (رادیو بامداد)",
+      "URL": "https://radiobamdad.out.airtime.pro/radiobamdad_a"
+    },
+    {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
     },
