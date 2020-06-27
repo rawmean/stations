@@ -15,42 +15,46 @@
     {
       "StationName": "Radyo KBYN",
       "URL": "http://204.141.167.21:10500/;"
+    },    
+    {
+      "StationName": "96.3 Easy Rock",
+      "URL": "https://jegala00.radioca.st/;"
+    },    
+    {
+      "StationName": "Yes! Best 101.1",
+      "URL": "https://jegalang.radioca.st/;"
+    },    
+    {
+      "StationName": "90.7 Love Radio",
+      "URL": "https://manilabr.radioca.st/;"
     },
+    {
+      "StationName": "Radio Nature",
+      "URL": "http://listen.shoutcast.com/radionature.m3u"
+    },    
+    {
+      "StationName": "Barangay LS 97.1",
+      "URL": "https://magic.radioca.st/stream"
+    },    
     {
       "StationName": "Tunog Pinoy Radio",
       "URL": "http://s2.voscast.com:8696/;"
-    },
-    {
-      "StationName": "PinoyMLRF",
-      "URL": "http://gemini.shoutca.st:8076/stream"
     },
     {
       "StationName": "COOL FM 90.1",
       "URL": "http://equinox.shoutca.st:8938/;"
     },
     {
-      "StationName": "Joko Jun Radio",
-      "URL": "http://www.jokojun.com/radio.m3u"
-    },
-    {
       "StationName": "V-Hive Radio",
       "URL": "http://192.99.8.192:3154/vhiveradiostream"
-    },
-    {
-      "StationName": "Music Pinoy",
-      "URL": "http://76.164.217.100:7032/live"
     },
     {
       "StationName": "PINOY RADIO UK",
       "URL": "http://206.72.194.250:9972/;stream.mp3"
     },
     {
-      "StationName": "PINOY RADIO Germany",
-      "URL": "http://206.72.194.250:8030/;"
-    },
-    {
-      "StationName": "Yes! The Best 101",
-      "URL": "http://37.59.28.208:8500"
+      "StationName": "Joko Jun Radio",
+      "URL": "http://www.jokojun.com/radio.m3u"
     }
   ],
   "FarsiRadio": [
