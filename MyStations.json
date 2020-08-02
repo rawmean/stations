@@ -103,20 +103,12 @@
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
     {
-      "StationName": "Radio Mahoor",
-      "URL": "http://38.99.146.102:8000/mahoor.mp3"
-    },
-    {
       "StationName": "Radio Faaz",
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
       "StationName": "RFI Persian",
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
-    },
-    {
-      "StationName": "(Hamegan) رادیو همهگان",
-      "URL": "http://91.121.134.23:8300/stream"
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
@@ -135,16 +127,8 @@
       "URL": "http://5.39.71.159:8578/stream"
     },
     {
-      "StationName": "Bia2",
-      "URL": "http://199.58.163.15:8002/;"
-    },
-    {
-      "StationName": "Radio 6o8",
-      "URL": "http://radio6o8.com:8000/strem"
-    },
-    {
       "StationName": "(Ava) راديو آوا",
-      "URL": "http://api.radio.net/playlist/avalondon.m3u8?apikey=83b64b05843237736ca8f11bccb155ffa69a3094"
+      "URL": "http://95.130.169.194/Stream9"
     }
   ],
   "ThaiRadios": [
