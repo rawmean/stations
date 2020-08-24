@@ -1,10 +1,6 @@
 {
   "RadioPinoy": [
     {
-      "StationName": "Pinoy Music Radio",
-      "URL": "http://s1.voscast.com:8230/"
-    },
-    {
       "StationName": "Pinoy Love Radio",
       "URL": "https://manilabr.radioca.st/;"
     },
@@ -27,6 +23,10 @@
     {
       "StationName": "90.7 Love Radio",
       "URL": "https://manilabr.radioca.st/;"
+    },
+    {
+      "StationName": "Pinoy Music Radio",
+      "URL": "http://s1.voscast.com:8230/"
     },
     {
       "StationName": "Radio Nature",
