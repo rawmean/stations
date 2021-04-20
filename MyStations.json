@@ -116,7 +116,7 @@
     },
     {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
-      "URL": "http://audio.rangarang.us:8000/stream/4/"
+      "URL": "https://radios.rangarang.us/stream/1/"
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
@@ -125,10 +125,6 @@
     {
       "StationName": "AvazFarsi",
       "URL": "http://www.avazfarsi.com:9300/;"
-    },
-    {
-      "StationName": "(Nava) راديو نوا",
-      "URL": "http://5.39.71.159:8578/stream"
     },
     {
       "StationName": "(Ava) راديو آوا",
