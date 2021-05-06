@@ -59,6 +59,18 @@
   ],
   "FarsiRadio": [
     {
+      "StationName": "Top 80",
+      "URL": "http://uk5.internet-radio.com:8011/listen.pls"
+    },
+    {
+      "StationName": "Top Country",
+      "URL": "http://uk7.internet-radio.com:8168/"
+    },
+    {
+      "StationName": "Alternative",
+      "URL": "http://uk1.internet-radio.com:8465/listen.pls"
+    },
+    {
       "StationName": "Hamrah",
       "URL": "https://node-20.zeno.fm/nezaycc28vzuv?rj-ttl=5&rj-tok=AAABcdGtuXUAsC_sels9Q3WTFA"
     },
