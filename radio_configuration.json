@@ -10,7 +10,7 @@
   "FarsiRadio": [
     {
       "EnableYouTube": "YES",
-      "EnableRecording": "YES",
+      "EnableRecording": "NO",
       "UseiAd": "NO",
       "EnableChat": "NO",
       "EnableEchoNest": "NO",
