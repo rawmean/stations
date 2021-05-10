@@ -2,51 +2,55 @@
   "RadioPinoy": [
     {
       "StationName": "Pinoy Love Radio",
-      "URL": "https://manilabr.radioca.st/;"
-    },
+      "URL": "https://s3.radio.co/sd43d6cc6d/listen"
+    },    
     {
-      "StationName": "RAKISTA Radio",
-      "URL": "http://206.190.138.197:8000/listen128.mp3"
+      "StationName": "89.9 Pinoy Hot Mix",
+      "URL": "http://cp12.serverse.com:7832/live"
+    },    
+    {
+      "StationName": "Atlantis Radio Philippines",
+      "URL": "http://listen.shoutcast.com/atlantisradiophilippinesaac"
+    },    
+    {
+      "StationName": "Cool Hits 901 Philippines",
+      "URL": "http://rsal2301.radioca.st:8938/;"
+    },    
+    {
+      "StationName": "Canadian Pinoy Radio",
+      "URL": "http://s5.voscast.com:8050/;"
     },
     {
       "StationName": "Radyo KBYN",
       "URL": "http://204.141.167.21:10500/;"
     },    
     {
+      "StationName": "Himig Pinoy FM",
+      "URL": "http://s2.voscast.com:12094/;"
+    },    
+    {
+      "StationName": "Pinoy Heart FM",
+      "URL": "http://fr1.amfmph.com:8174/;"
+    },    
+    {
+      "StationName": "Pinoy Lightrock OPM",
+      "URL": "https://magic.radioca.st/;"
+    },    
+    {
       "StationName": "96.3 Easy Rock",
-      "URL": "https://jegala00.radioca.st/;"
+      "URL": "https://s4.radio.co/s778110174/listen"
     },    
     {
       "StationName": "Yes! Best 101.1",
-      "URL": "https://jegalang.radioca.st/;"
-    },    
-    {
-      "StationName": "90.7 Love Radio",
-      "URL": "https://manilabr.radioca.st/;"
-    },
-    {
-      "StationName": "Pinoy Music Radio",
-      "URL": "http://s1.voscast.com:8230/"
-    },
-    {
-      "StationName": "Radio Nature",
-      "URL": "http://listen.shoutcast.com/radionature.m3u"
-    },    
+      "URL": "https://s2.radio.co/sa85100da7/listen"
+    },      
     {
       "StationName": "Barangay LS 97.1",
       "URL": "https://magic.radioca.st/stream"
     },    
     {
-      "StationName": "Tunog Pinoy Radio",
-      "URL": "http://s2.voscast.com:8696/;"
-    },
-    {
-      "StationName": "COOL FM 90.1",
-      "URL": "http://equinox.shoutca.st:8938/;"
-    },
-    {
       "StationName": "V-Hive Radio",
-      "URL": "http://192.99.8.192:3154/vhiveradiostream"
+      "URL": "http://cp.usa1.fastcast4u.com:3154/;"
     },
     {
       "StationName": "PINOY RADIO UK",
