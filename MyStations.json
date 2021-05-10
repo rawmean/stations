@@ -58,30 +58,10 @@
     }
   ],
   "FarsiRadio": [
-     {
-       "StationName": "Top 70s",
-       "URL": "http://uk3.internet-radio.com:8405/live"
-     },
-     {
-       "StationName": "Top 80s",
-       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
-     },
-     {
-       "StationName": "Top Country",
-       "URL": "http://uk7.internet-radio.com:8168/"
-     },
-     {
-       "StationName": "Alternative",
-       "URL": "http://uk1.internet-radio.com:8465/listen.pls"
-     },
     {
       "StationName": "Hamrah",
       "URL": "https://node-20.zeno.fm/nezaycc28vzuv?rj-ttl=5&rj-tok=AAABcdGtuXUAsC_sels9Q3WTFA"
     },
-    {
-       "StationName": "Mix Americana",
-       "URL": "http://uk7.internet-radio.com:8168/"
-     },
     {
       "StationName": "KIRN 670 AM",
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
@@ -91,24 +71,12 @@
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-       "StationName": "Top 90s",
-       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
-     },
-      {
-      "StationName": "Smooth Jazz",
-      "URL": "http://us4.internet-radio.com:8266/listen.pls"
-    }, 
-    {
       "StationName": "Farda",
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
     {
       "StationName": "Ghasedak",
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
-    },
-    {
-      "StationName": "Top 40",
-      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
     },
     {
       "StationName": "Radio Los Angeles",
@@ -147,16 +115,8 @@
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
-      "StationName": "Dance",
-      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
-    },
-    {
       "StationName": "RFI Persian",
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
-    },
-        {
-      "StationName": "Jazz",
-      "URL": "http://us3.internet-radio.com:8485/listen.pls"
     },
     {
       "StationName": "Rangarang1",
@@ -173,7 +133,49 @@
     {
       "StationName": "Ava",
       "URL": "http://95.130.169.194/Stream9"
-    }
+    },
+    {
+       "StationName": "Top 70s",
+       "URL": "http://uk3.internet-radio.com:8405/live"
+     },
+     {
+       "StationName": "Top 80s",
+       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
+     },
+     {
+       "StationName": "Top Country",
+       "URL": "http://uk7.internet-radio.com:8168/"
+     },
+     {
+       "StationName": "Alternative",
+       "URL": "http://uk1.internet-radio.com:8465/listen.pls"
+     },
+     {
+      "StationName": "Jazz",
+      "URL": "http://us3.internet-radio.com:8485/listen.pls"
+    },
+    {
+      "StationName": "Dance",
+      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+    },
+    {
+      "StationName": "Top 40",
+      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+    },
+    {
+       "StationName": "Top 90s",
+       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
+     },
+      {
+      "StationName": "Smooth Jazz",
+      "URL": "http://us4.internet-radio.com:8266/listen.pls"
+    }, 
+    {
+       "StationName": "Mix Americana",
+       "URL": "http://uk7.internet-radio.com:8168/"
+     }
+
+
   ],
   "ThaiRadios": [
     {
