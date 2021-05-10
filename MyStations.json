@@ -55,10 +55,6 @@
     {
       "StationName": "PINOY RADIO UK",
       "URL": "http://206.72.194.250:9972/;stream.mp3"
-    },
-    {
-      "StationName": "Joko Jun Radio",
-      "URL": "http://www.jokojun.com/radio.m3u"
     }
   ],
   "FarsiRadio": [
