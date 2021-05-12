@@ -87,6 +87,14 @@
       "URL": "http://s3.voscast.com:10386/;stream1612384777647/1"
     },
     {
+      "StationName": "London Persian Radio",
+      "URL": "http://s4.voscast.com:7574/;"
+    },
+    {
+      "StationName": "VOA - Persian",
+      "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
+    },
+    {
       "StationName": "Donya",
       "URL": "http://stream.zeno.fm/2cbf5agseg0uv"
     },
