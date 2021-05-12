@@ -79,6 +79,10 @@
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
     },
     {
+      "StationName": "Radio Yar",
+      "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
+    },
+    {
       "StationName": "Radio Los Angeles",
       "URL": "http://s3.voscast.com:10386/;stream1612384777647/1"
     },
@@ -93,10 +97,6 @@
     {
       "StationName": "Bamdad",
       "URL": "https://s3.radio.co/sd07c718f1/low"
-    },
-    {
-      "StationName": "Radio Yar",
-      "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
     },
     {
       "StationName": "Radio ITN",
