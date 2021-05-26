@@ -59,7 +59,7 @@
   ],
   "FarsiRadio": [
     {
-      "StationName": "Hamrah",
+      "StationName": "(Hamrah) راديو همراه",
       "URL": "https://node-20.zeno.fm/nezaycc28vzuv?rj-ttl=5&rj-tok=AAABcdGtuXUAsC_sels9Q3WTFA"
     },
     {
@@ -67,19 +67,19 @@
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
     },
     {
-      "StationName": "Javan",
+      "StationName": "(Javan) راديو جوان",
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-      "StationName": "Farda",
+      "StationName": "(Farda) راديو فردا",
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
     {
-      "StationName": "Ghasedak",
+      "StationName": "(Ghasedak) رادیو قاصدک",
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
     },
     {
-      "StationName": "Radio Yar",
+      "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
     },
     {
@@ -95,15 +95,15 @@
       "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
     },
     {
-      "StationName": "Donya",
+      "StationName": "(Donya) راديو دنيا",
       "URL": "http://stream.zeno.fm/2cbf5agseg0uv"
     },
     {
-      "StationName": "Radio Shoma",
+      "StationName": "Radio Shoma (راديو شما)",
       "URL": "http://stream.radiojar.com/rmzawtdbsxquv"
     },
     {
-      "StationName": "Bamdad",
+      "StationName": "Bamdad (رادیو بامداد)",
       "URL": "https://s3.radio.co/sd07c718f1/low"
     },
     {
@@ -111,11 +111,11 @@
       "URL": "http://23.29.71.154:8142/;stream"
     },
     {
-      "StationName": "Shadi",
+      "StationName": "(Shadi) راديو شادى",
       "URL": "http://ice9.securenetsystems.net/SHADI?"
     },
     {
-      "StationName": "Ma va Shoma",
+      "StationName": "Ma va Shoma (ما و شما)",
       "URL": "http://hemnos.cdnstream.com/1877_128"
     },
     {
@@ -127,11 +127,11 @@
       "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
     },
     {
-      "StationName": "Rangarang1",
+      "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "https://radios.rangarang.us/stream/1/"
     },
     {
-      "StationName": "Hamsafar",
+      "StationName": "(Hamsafar) راديو همسفر",
       "URL": "http://listen.shoutcast.com/Hamsafarradio"
     },
     {
@@ -139,7 +139,7 @@
       "URL": "http://www.avazfarsi.com:9300/;"
     },
     {
-      "StationName": "Ava",
+      "StationName": "(Ava) راديو آوا",
       "URL": "http://95.130.169.194/Stream9"
     },
     {
