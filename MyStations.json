@@ -81,11 +81,7 @@
     {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
-    },
-    {
-      "StationName": "Radio Mihan (رادیو میهن)",
-      "URL": "https://radio.mihantv.com/mihan"
-    },    
+    },   
     {
       "StationName": "Radio Los Angeles",
       "URL": "http://s3.voscast.com:10386/;stream1612384777647/1"
