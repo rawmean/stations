@@ -60,15 +60,11 @@
   "FarsiRadio": [
     {
       "StationName": "(Hamrah) راديو همراه",
-      "URL": "http://stream.zeno.fm/65kgt1m80v5tv?storeId=825790964&ip=172.58.72.115&storeUrl=https://apps.apple.com/app/id825790964&lsid=app:3387e40e-e94b-4cc7-a927-306856e68ceb&dist=Hamrah&bundleId=com.radiohamrah&userId=3387e40e-e94b-4cc7-a927-306856e68ceb&gdpr=0&dnt=0"
+      "URL": "http://stream.zeno.fm/65kgt1m80v5tv?storeId=825790964&storeUrl=https://apps.apple.com/app/id825790964&lsid=app:3387e40e-e94b-4cc7-a927-306856e68ceb&dist=Hamrah&bundleId=com.radiohamrah&userId=3387e40e-e94b-4cc7-a927-306856e68ceb&gdpr=0&dnt=0"
     },
     {
       "StationName": "KIRN 670 AM",
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
-    },
-    {
-      "StationName": "(Javan) راديو جوان",
-      "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
       "StationName": "(Farda) راديو فردا",
@@ -79,9 +75,17 @@
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
     },
     {
+      "StationName": "(Javan) راديو جوان",
+      "URL": "http://stream.radiojavan.com/radiojavan"
+    },
+    {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
     },
+    {
+      "StationName": "Radio Mihan (رادیو میهن)",
+      "URL": "https://radio.mihantv.com/mihan"
+    },    
     {
       "StationName": "Radio Los Angeles",
       "URL": "http://s3.voscast.com:10386/;stream1612384777647/1"
@@ -123,10 +127,6 @@
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
-      "StationName": "RFI Persian",
-      "URL": "http://live02.rfi.fr/rfienpersan-64k.mp3"
-    },
-    {
       "StationName": "(Rangarang1)راديو رنگارنگ ١",
       "URL": "https://radios.rangarang.us/stream/1/"
     },
@@ -155,12 +155,8 @@
        "URL": "http://uk7.internet-radio.com:8168/"
      },
      {
-       "StationName": "Alternative",
-       "URL": "http://uk1.internet-radio.com:8465/listen.pls"
-     },
-     {
       "StationName": "Jazz",
-      "URL": "http://us3.internet-radio.com:8485/listen.pls"
+      "URL": "https://onair.europaradiojazz.org/radio/8000/hd"
     },
     {
       "StationName": "Dance",
