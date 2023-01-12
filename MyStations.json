@@ -79,13 +79,13 @@
       "URL": "http://stream.radiojavan.com/radiojavan"
     },
     {
-      "StationName": "Radio Vanak (رادیو ونک)",
-      "URL": "https://s10.citrus3.com:8462/stream"
-    },
-    {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
     },   
+    {
+      "StationName": "Radio Vanak (رادیو ونک)",
+      "URL": "https://s10.citrus3.com:8462/stream"
+    },
     {
       "StationName": "London Persian Radio",
       "URL": "http://s4.voscast.com:7574/;"
