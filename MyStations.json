@@ -57,6 +57,20 @@
       "URL": "http://206.72.194.250:9972/;stream.mp3"
     }
   ],
+    "FarsiRadio_v2": [
+    {
+      "StationName": "Radio Yar (رادیو یار)",
+      "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
+    },   
+    {
+      "StationName": "Radio Vanak (رادیو ونک)",
+      "URL": "https://s10.citrus3.com:8462/stream"
+    },
+    {
+      "StationName": "(Donya) راديو دنيا",
+      "URL": "http://stream.zeno.fm/2cbf5agseg0uv"
+    }
+  ],
   "FarsiRadio": [
     {
       "StationName": "(Hamrah) راديو همراه",
