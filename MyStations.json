@@ -57,7 +57,7 @@
       "URL": "http://206.72.194.250:9972/;stream.mp3"
     }
   ],
-    "FarsiRadio_v2": [
+    "FarsiRadio_review": [
     {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
@@ -190,6 +190,124 @@
      }
 
 
+  ],
+    "FarsiRadio_v2": [
+    {
+      "StationName": "(Hamrah) راديو همراه",
+      "URL": "http://stream.zeno.fm/65kgt1m80v5tv?storeId=825790964&storeUrl=https://apps.apple.com/app/id825790964&lsid=app:3387e40e-e94b-4cc7-a927-306856e68ceb&dist=Hamrah&bundleId=com.radiohamrah&userId=3387e40e-e94b-4cc7-a927-306856e68ceb&gdpr=0&dnt=0"
+    },
+    {
+      "StationName": "KIRN 670 AM",
+      "URL": "http://ice41.securenetsystems.net:80/KIRN"
+    },
+    {
+      "StationName": "(Farda) راديو فردا",
+      "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
+    },    
+    {
+      "StationName": "(Ghasedak) رادیو قاصدک",
+      "URL": "https://listen.radioking.com/radio/338137/stream/386674"
+    },
+    {
+      "StationName": "(Javan) راديو جوان",
+      "URL": "http://stream.radiojavan.com/radiojavan"
+    },
+    {
+      "StationName": "Radio Yar (رادیو یار)",
+      "URL": "http://192.34.153.102:8000/RadioYAR.mp3"
+    },   
+    {
+      "StationName": "Radio Vanak (رادیو ونک)",
+      "URL": "https://s10.citrus3.com:8462/stream"
+    },
+    {
+      "StationName": "London Persian Radio",
+      "URL": "http://s4.voscast.com:7574/;"
+    },
+    {
+      "StationName": "VOA - Persian",
+      "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
+    },
+    {
+      "StationName": "(Donya) راديو دنيا",
+      "URL": "http://stream.zeno.fm/2cbf5agseg0uv"
+    },
+    {
+      "StationName": "Radio Shoma (راديو شما)",
+      "URL": "http://stream.radiojar.com/rmzawtdbsxquv"
+    },
+    {
+      "StationName": "Bamdad (رادیو بامداد)",
+      "URL": "https://s3.radio.co/sd07c718f1/low"
+    },
+    {
+      "StationName": "Radio ITN",
+      "URL": "http://23.29.71.154:8142/;stream"
+    },
+    {
+      "StationName": "(Shadi) راديو شادى",
+      "URL": "http://ice9.securenetsystems.net/SHADI?"
+    },
+    {
+      "StationName": "Ma va Shoma (ما و شما)",
+      "URL": "http://hemnos.cdnstream.com/1877_128"
+    },
+    {
+      "StationName": "Radio Faaz",
+      "URL": "http://www.radiofaaz.com:8000/radiofaaz"
+    },
+    {
+      "StationName": "(Rangarang1)راديو رنگارنگ ١",
+      "URL": "https://radios.rangarang.us/stream/1/"
+    },
+    {
+      "StationName": "(Hamsafar) راديو همسفر",
+      "URL": "http://listen.shoutcast.com/Hamsafarradio"
+    },
+    {
+      "StationName": "AvazFarsi",
+      "URL": "http://www.avazfarsi.com:9300/;"
+    },
+    {
+      "StationName": "(Ava) راديو آوا",
+      "URL": "http://95.130.169.194/Stream9"
+    },
+    {
+       "StationName": "Top 70s",
+       "URL": "http://uk3.internet-radio.com:8405/live"
+     },
+     {
+       "StationName": "Top 80s",
+       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
+     },
+     {
+       "StationName": "Top Country",
+       "URL": "http://uk7.internet-radio.com:8168/"
+     },
+     {
+      "StationName": "Jazz",
+      "URL": "https://onair.europaradiojazz.org/radio/8000/hd"
+    },
+    {
+      "StationName": "Dance",
+      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+    },
+    {
+      "StationName": "Top 40",
+      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+    },
+    {
+       "StationName": "Top 90s",
+       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
+     },
+      {
+      "StationName": "Smooth Jazz",
+      "URL": "http://us4.internet-radio.com:8266/listen.pls"
+    }, 
+    {
+       "StationName": "Mix Americana",
+       "URL": "http://uk7.internet-radio.com:8168/"
+     }
   ],
   "ThaiRadios": [
     {
