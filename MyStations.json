@@ -250,7 +250,11 @@
     },
     {
       "StationName": "Ma va Shoma (ما و شما)",
-      "URL": "http://hemnos.cdnstream.com/1877_128"
+      "URL": "http://global.citrus3.com:8244/stream"
+    },
+    {
+      "StationName": "Melodie Iran (ملودی)",
+      "URL": " http://global.citrus3.com:8234/stream "
     },
     {
       "StationName": "Radio Faaz",
