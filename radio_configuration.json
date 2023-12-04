@@ -17,7 +17,7 @@
       "EnableEchoNest": "NO",
       "Message": "https://www.maadotaa.com/radio-privacy",
       "MessageID": "40",
-      "reviewMode": "YES",
+      "reviewMode": "v1",
       "EnableSharing": "YES"
     }
   ],
