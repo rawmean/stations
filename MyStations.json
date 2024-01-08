@@ -225,8 +225,8 @@
       "URL": "http://s4.voscast.com:7574/;"
     },
     {
-      "StationName": "VOA - Persian",
-      "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
+      "StationName": "رادیو سرچشمه",
+      "URL": "http://sarcheshmeh.icdndhcp.com:18452/stream/;"
     },
     {
       "StationName": "[Donya] راديو دنيا",
@@ -275,6 +275,10 @@
     {
       "StationName": "(Ava) راديو آوا",
       "URL": "http://95.130.169.194/Stream9"
+    },
+    {
+      "StationName": "VOA - Persian",
+      "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
     },
     {
        "StationName": "Top 70s",
