@@ -205,6 +205,10 @@
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
     {
+      "StationName": "Radio Yar (رادیو یار)",
+      "URL": "https://shoutcast.glwiz.com/RadioYAR.mp3"
+    },  
+    {
       "StationName": "(Ghasedak) رادیو قاصدک",
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
     },
@@ -212,10 +216,6 @@
       "StationName": "(Dar Bast) رادیو دربست",
       "URL": "http://live.radiodarbast.com:8443/stream.mp3"
     },
-    {
-      "StationName": "Radio Yar (رادیو یار)",
-      "URL": "https://shoutcast.glwiz.com/RadioYAR.mp3"
-    },   
     {
       "StationName": "Radio Vanak (رادیو ونک)",
       "URL": "https://s10.citrus3.com:8462/stream"
