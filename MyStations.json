@@ -122,7 +122,7 @@
     },
     {
       "StationName": "Radio ITN",
-      "URL": "176.9.86.211:8104/stream"
+      "URL": "https://176.9.86.211:8104/stream"
     },
     {
       "StationName": "(Shadi) راديو شادى",
@@ -242,7 +242,7 @@
     },
     {
       "StationName": "Radio ITN",
-      "URL": "176.9.86.211:8104/stream"
+      "URL": "https://176.9.86.211:8104/stream"
     },
     {
       "StationName": "(Shadi) راديو شادى",
