@@ -182,7 +182,7 @@
      },
       {
       "StationName": "Smooth Jazz",
-      "URL": "http://us4.internet-radio.com:8266/listen.pls"
+      "URL": "http://smoothjazz.cdnstream1.com/2585_64.aac"
     }, 
     {
        "StationName": "Mix Americana",
@@ -310,7 +310,7 @@
      },
       {
       "StationName": "Smooth Jazz",
-      "URL": "http://us4.internet-radio.com:8266/listen.pls"
+      "URL": "http://smoothjazz.cdnstream1.com/2585_64.aac"
     }, 
     {
        "StationName": "Mix Americana",
