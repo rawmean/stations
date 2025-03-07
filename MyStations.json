@@ -217,10 +217,6 @@
       "URL": "https://listen.radioking.com/radio/338137/stream/386674"
     },
     {
-      "StationName": "(Dar Bast) رادیو دربست",
-      "URL": "http://live.radiodarbast.com:8443/stream.mp3"
-    },
-    {
       "StationName": "Radio Vanak (رادیو ونک)",
       "URL": "https://s10.citrus3.com:8462/stream"
     },
@@ -265,16 +261,20 @@
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
-      "StationName": "(Rangarang1)راديو رنگارنگ ١",
-      "URL": "https://radios.rangarang.us/stream/1/"
+      "StationName": "AvazFarsi",
+      "URL": "https://radio.avazfarsi.com:8000/radio.mp3"
     },
     {
       "StationName": "(Hamsafar) راديو همسفر",
-      "URL": "http://listen.shoutcast.com/Hamsafarradio"
+      "URL": "http://stream.radiojar.com/pyea7q9h5ehvv.m3u"
     },
     {
-      "StationName": "AvazFarsi",
-      "URL": "http://www.avazfarsi.com:9300/;"
+      "StationName": "(Dar Bast) رادیو دربست",
+      "URL": "http://live.radiodarbast.com:8443/stream.mp3"
+    },
+    {
+      "StationName": "(Rangarang1)راديو رنگارنگ ١",
+      "URL": "https://radios.rangarang.us/stream/1/"
     },
     {
       "StationName": "(Ava) راديو آوا",
@@ -298,7 +298,11 @@
      },
      {
       "StationName": "Jazz",
-      "URL": "https://onair.europaradiojazz.org/radio/8000/hd"
+      "URL": "https://audio-edge-4ev3b.lax.g.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83"
+    },
+    {
+      "StationName": "Jazz 1",
+      "URL": "https://live.amperwave.net/playlist/ppm-jazz24aac256-ibc1.m3u"
     },
     {
       "StationName": "Dance",
