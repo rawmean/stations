@@ -205,6 +205,10 @@
       "URL": "http://ice41.securenetsystems.net:80/KIRN"
     },
     {
+      "StationName": "ایران اینترنشنال",
+      "URL": "https://n0e.radiojar.com/dfnrphnr5f0uv"
+    },
+    {
       "StationName": "(Farda) راديو فردا",
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
@@ -216,10 +220,6 @@
       "StationName": "Radio Yar+ (+رادیو یار)",
       "URL": "https://stream-166.zeno.fm/2jwyo983y49vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyand5bzk4M3k0OXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlHeTRQbWdVUm9lMXhRM1dTOWljRGciLCJpYXQiOjE3MzkxMjI0MTcsImV4cCI6MTczOTEyMjQ3N30.6w7ZUyDfOru1vKJc83lo47T59fydy67ymGsB_Rjy6uQ"
     },      
-    {
-      "StationName": "(Ghasedak) رادیو قاصدک",
-      "URL": "https://listen.radioking.com/radio/338137/stream/386674"
-    },
     {
       "StationName": "Radio Vanak (رادیو ونک)",
       "URL": "https://s10.citrus3.com:8462/stream"
@@ -247,10 +247,6 @@
     {
       "StationName": "Bamdad (رادیو بامداد)",
       "URL": "https://s3.radio.co/sd07c718f1/low"
-    },
-    {
-      "StationName": "Radio ITN",
-      "URL": "http://176.9.86.211:8104/stream"
     },
     {
       "StationName": "(Shadi) راديو شادى",
@@ -281,16 +277,9 @@
       "URL": "http://live.radiodarbast.com:8443/stream.mp3"
     },
     {
-      "StationName": "(Rangarang1)راديو رنگارنگ ١",
-      "URL": "https://radios.rangarang.us/stream/1/"
-    },
     {
       "StationName": "(Ava) راديو آوا",
       "URL": "http://95.130.169.194/Stream9"
-    },
-    {
-      "StationName": "VOA - Persian",
-      "URL": "http://voa-19.akacast.akamaistream.net/7/309/322031/v1/ibb.akacast.akamaistream.net/voa-19.mp3"
     },
     {
        "StationName": "Top 70s",
