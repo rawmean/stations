@@ -10,15 +10,15 @@
   "FarsiRadio": [
     {
       "EnableYouTube": "NO",
-      "EnableRecording": "YES",
+      "EnableRecording": "NO",
       "UseUnity": "NO",
       "UseiAd": "NO",
       "EnableChat": "NO",
       "EnableEchoNest": "NO",
       "Message": "https://www.maadotaa.com/radio-privacy",
       "MessageID": "40",
-      "reviewMode": "NO",
-      "EnableSharing": "YES"
+      "reviewMode": "v5",
+      "EnableSharing": "NO"
     }
   ],
   "Listen2Me": [
