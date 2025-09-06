@@ -219,7 +219,15 @@
     {
       "StationName": "Radio Yar+ (+رادیو یار)",
       "URL": "https://stream-166.zeno.fm/2jwyo983y49vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyand5bzk4M3k0OXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjlHeTRQbWdVUm9lMXhRM1dTOWljRGciLCJpYXQiOjE3MzkxMjI0MTcsImV4cCI6MTczOTEyMjQ3N30.6w7ZUyDfOru1vKJc83lo47T59fydy67ymGsB_Rjy6uQ"
-    },      
+    },  
+    {
+      "StationName": "Radio Salmak (رادیوسلمک)",
+      "URL": "http://stream.radiojar.com/atdbyqwr8vuvv"
+    },  
+    {
+      "StationName": "Radio Simorgh (رادیو سیمرغ) ",
+      "URL": "https://stream.zeno.fm/rpp2idx09eduv"
+    },  
     {
       "StationName": "Radio Vanak (رادیو ونک)",
       "URL": "https://s10.citrus3.com:8462/stream"
