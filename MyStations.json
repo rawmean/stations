@@ -237,16 +237,8 @@
       "URL": "https://stream.zeno.fm/9svfnobkrxrvv"
     },  
     {
-      "StationName": "Radio Vanak (رادیو ونک)",
-      "URL": "https://s10.citrus3.com:8462/stream"
-    },
-    {
       "StationName": "London Persian Radio",
       "URL": "http://s4.voscast.com:7574/;"
-    },
-    {
-      "StationName": "رادیو سرچشمه",
-      "URL": "http://sarcheshmeh.icdndhcp.com:18452/stream/;"
     },
     {
       "StationName": "[Donya] راديو دنيا",
@@ -281,20 +273,12 @@
       "URL": "http://www.radiofaaz.com:8000/radiofaaz"
     },
     {
-      "StationName": "AvazFarsi",
-      "URL": "https://radio.avazfarsi.com:8000/radio.mp3"
-    },
-    {
       "StationName": "(Hamsafar) راديو همسفر",
       "URL": "http://stream.radiojar.com/pyea7q9h5ehvv.m3u"
     },
     {
       "StationName": "(Dar Bast) رادیو دربست",
       "URL": "http://live.radiodarbast.com:8443/stream.mp3"
-    },
-    {
-      "StationName": "(Ava) راديو آوا",
-      "URL": "http://95.130.169.194/Stream9"
     },
     {
        "StationName": "Top 70s",
