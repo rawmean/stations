@@ -285,34 +285,22 @@
        "URL": "http://uk3.internet-radio.com:8405/live"
      },
      {
-       "StationName": "Top 80s",
-       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
-     },
-     {
        "StationName": "Top Country",
        "URL": "http://uk7.internet-radio.com:8168/"
      },
      {
-      "StationName": "Jazz",
-      "URL": "https://audio-edge-4ev3b.lax.g.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83"
-    },
-    {
       "StationName": "Jazz 1",
-      "URL": "https://live.amperwave.net/playlist/ppm-jazz24aac256-ibc1.m3u"
+      "URL": "https://www.jazz88.org/listen.m3u"
     },
     {
-      "StationName": "Dance",
-      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+      "StationName": "Jazz 2",
+      "URL": "https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz"
     },
     {
-      "StationName": "Top 40",
-      "URL": "http://uk2.internet-radio.com:8024/listen.pls"
+      "StationName": "Jazz 3",
+      "URL": "https://mscp3.live-streams.nl:8342/jazz-flac.flac"
     },
     {
-       "StationName": "Top 90s",
-       "URL": "http://uk5.internet-radio.com:8011/listen.pls"
-     },
-      {
       "StationName": "Smooth Jazz",
       "URL": "http://smoothjazz.cdnstream1.com/2585_64.aac"
     }, 
