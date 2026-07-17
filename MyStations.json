@@ -213,6 +213,10 @@
       "URL": "http://stream.radiojar.com/cp13r2cpn3quv"
     },    
     {
+      "StationName": "BBC Persian",
+      "URL": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8"
+    },    
+    {
       "StationName": "Radio Yar (رادیو یار)",
       "URL": "https://stream-169.zeno.fm/oyb5oh6ne3tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJveWI1b2g2bmUzdHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IldJVE1DZ3JPUzNxcFg1d2VfbG9UQ0EiLCJpYXQiOjE3MjU2MzQ4MDMsImV4cCI6MTcyNTYzNDg2M30.E06TwagvvGw9BIPgbCX9VSLEHlCkOEkq1xy6OUP2dAU"
     },  
